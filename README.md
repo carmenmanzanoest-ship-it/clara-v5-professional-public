@@ -1,6 +1,18 @@
 # 🧠 CLARA v5.0 PROFESSIONAL  
 ### Sistema de Inteligencia Estratégica Superior  
 
+<p align="center">
+  <img src="assets/clara-5.0.jpeg" alt="CLARA v5.0" width="280">
+</p>
+
+> *Emblema oficial del Sistema de Inteligencia Estratégica Superior – CLARA v5.0*
+
+
+
+
+
+
+
 _"Donde la excelencia operativa encuentra la sabiduría filosófica"_
 
 ---
