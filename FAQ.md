@@ -1122,3 +1122,46 @@ Es como software que compraste. Sigue siendo tuyo, pero soporte/actualizaciones 
 - Team $1,997 → **$1,198/año**
 
 **Requisitos:*
+Comprobante de residencia
+Declaración jurada de uso personal/empresa local
+Filosofía:
+Creemos que herramientas de clase mundial deben ser accesibles independientemente de geografía. El talento y las buenas ideas están distribuidas equitativamente; las oportunidades no.
+Aplicar:
+📧 regional@clara-v5.com
+🚀 ÚLTIMA PREGUNTA
+¿Por qué debería comprar CLARA v5.0 HOY?
+3 razones pragmáticas:
+1. Early Bird $697 (ahorro $300)
+Solo primeros 100 compradores.
+Quedan: ~37/100 cupos.
+Después sube a $997 y ya no baja.
+Grandfathering: Tu precio se mantiene en renovaciones.
+2. Primera decisión crítica paga la inversión
+Si tomas 1 decisión al mes que afecta $10K+,
+CLARA evita 1 error = ahorro $10K-$100K+
+Inversión $697 se recupera en semana 1.
+3. Actualizaciones perpetuas incluidas
+Compras hoy v5.0, recibes v5.1, v5.2, v6.0... gratis.
+De por vida.
+Nadie más ofrece esto.
+1 razón emocional:
+La próxima vez que enfrentes una decisión crítica que afecta a cientos de personas y millones de dólares...
+¿Quieres tener la confianza de que consideraste todas las dimensiones (técnica, ética, social, económica, ecológica), usaste frameworks profesionales de clase mundial, y protegiste tu bienestar mental en el proceso?
+O prefieres decidir "con la panza" y rezar para que salga bien?
+CLARA es la diferencia entre:
+"Hice lo mejor que pude"
+"Hice lo mejor que se puede hacer"
+�
+
+🎯 ¿LISTO PARA TRANSFORMAR TUS DECISIONES?
+Primeros 100 compradores: $697
+🛒 Comprar CLARA v5.0 Professional
+¿Aún tienes dudas?
+📧 Email | [💬 Chat](https://clara-v5.com/
+
+chat) | 📅 Demo
+CLARA v5.0 PROFESSIONAL
+Sistema de Inteligencia Estratégica Superior
+Ejecución Impecable · Consciencia Estratégica · Transformación Sostenible
+© 2025 CLARA v5.0 Professional. Todos los derechos reservados.
+📦 Volver al repositorio
