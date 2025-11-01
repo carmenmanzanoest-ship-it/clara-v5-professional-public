@@ -1,0 +1,309 @@
+📄 DOCUMENTO 8: .gitignore (Configuración Git)
+
+ARCHIVOS DEL SISTEMA OPERATIVO
+───────────────────────────────────────────────────────────
+macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+Linux
+~
+.fuse_hidden
+.directory
+.Trash-*
+.nfs*
+───────────────────────────────────────────────────────────
+IDEs Y EDITORES
+───────────────────────────────────────────────────────────
+Visual Studio Code
+.vscode/
+*.code-workspace
+.history/
+JetBrains (IntelliJ, PyCharm, WebStorm, etc.)
+.idea/
+*.iml
+*.ipr
+.iws
+.idea_modules/
+out/
+cmake-build-/
+*.swp
+*.swo
+Sublime Text
+*.sublime-project
+*.sublime-workspace
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime_session
+*.sublime-project.workspace
+Vim
+[.]*.s[a-v][a-z]
+[.]*.sw[a-p]
+[.]s[a-rt-v][a-z]
+[.]ss[a-gi-z]
+[._]sw[a-p]
+Session.vim
+Sessionx.vim
+.netrwhist
+Emacs
+~
+##
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.#
+───────────────────────────────────────────────────────────
+ARCHIVOS TEMPORALES Y LOGS
+───────────────────────────────────────────────────────────
+Logs
+logs/
+.log
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+Archivos temporales
+tmp/
+temp/
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.backup
+*.cache
+───────────────────────────────────────────────────────────
+NODE.JS (Si usas herramientas de build)
+───────────────────────────────────────────────────────────
+Dependencias
+node_modules/
+jspm_packages/
+bower_components/
+Archivos de distribución
+dist/
+build/
+.next/
+out/
+Archivos de configuración local
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.npmrc
+Cache
+.npm
+.eslintcache
+.stylelintcache
+.cache/
+───────────────────────────────────────────────────────────
+PYTHON (Si usas scripts de automatización)
+───────────────────────────────────────────────────────────
+Byte-compiled / optimized / DLL files
+pycache/
+*.py[cod]
+*$py.class
+*.so
+Distribución / packaging
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+PyInstaller
+*.manifest
+*.spec
+Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+pyenv
+.python-version
+───────────────────────────────────────────────────────────
+🚨 CONTENIDO PRIVADO (CRÍTICO - NUNCA COMMITEAR)
+───────────────────────────────────────────────────────────
+Prompt completo (debe estar en repositorio PRIVADO)
+prompt/clara-v5-complete.txt
+prompt/clara-v5-full.txt
+prompt/clara-v5-compressed.txt
+*-complete.txt
+*-full.txt
+Frameworks completos (solo muestras en público)
+frameworks/-completo.md
+frameworks/-full.md
+Casos de uso completos (solo resúmenes en público)
+casos-uso/-completo.pdf
+casos-uso/-full.pdf
+casos-uso/*/detalles-confidenciales.md
+Guías completas (solo previews en público)
+guias/implementacion-completa.pdf
+guias/*-full.pdf
+Templates personalizables completos
+templates/.xlsx
+templates/.notion
+templates/*.fig
+templates/completos/
+Archivos de clientes o ejemplos sensibles
+clientes/
+ejemplos-privados/
+confidencial/
+privado/
+private/
+Licencias vendidas y datos de clientes
+licencias/
+customers/
+sales/
+*.license
+Claves API, tokens, secretos
+.env*
+secrets/
+*.key
+*.pem
+.p12
+.pfx
+config/secrets.
+credentials.
+Base de datos (si tuvieras)
+*.db
+*.sqlite
+*.sqlite3
+───────────────────────────────────────────────────────────
+ARCHIVOS DE COMPILACIÓN Y BUILD
+───────────────────────────────────────────────────────────
+Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+Archives
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+───────────────────────────────────────────────────────────
+DOCUMENTOS GRANDES O BINARIOS (Opcional)
+───────────────────────────────────────────────────────────
+Videos (si decides no commitearlos)
+assets/videos/*.mp4
+assets/videos/*.mov
+Imágenes pesadas (si prefieres CDN)
+assets/imagenes/*-hd.png
+assets/imagenes/*-4k.jpg
+───────────────────────────────────────────────────────────
+HERRAMIENTAS DE TESTING Y CI/CD
+───────────────────────────────────────────────────────────
+Testing
+.nyc_output/
+coverage/
+*.lcov
+CI/CD
+.github/workflows/secrets/
+───────────────────────────────────────────────────────────
+OTROS
+───────────────────────────────────────────────────────────
+Backups
+*.bak
+*.backup
+*~.nib
+*.swp
+*.swo
+Patches
+*.orig
+*.rej
+*.patch
+Thumbnails
+*.thumb
+Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+───────────────────────────────────────────────────────────
+WHITELIST (Archivos que SÍ deben estar en repo público)
+───────────────────────────────────────────────────────────
+Estos archivos DEBEN estar (el ! los excluye del .gitignore)
+!README.md
+!LICENSE.md
+!CHANGELOG.md
+!TEASER.md
+!COMPRAR.md
+!FAQ.md
+!.gitignore
+Muestras de frameworks (versiones simplificadas)
+!ejemplos/
+!ejemplos/foda-completo.md
+!ejemplos/matriz-decision.md
+Resúmenes de casos de uso (no versiones completas)
+!casos-uso/README.md
+!casos-uso/*-resumen.md
+Assets públicos
+!assets/imagenes/logo*.png
+!assets/imagenes/diagrama*.png
+!assets/videos/demo-2min.mp4
+═══════════════════════════════════════════════════════════
+FIN DE .gitignore
+═══════════════════════════════════════════════════════════
