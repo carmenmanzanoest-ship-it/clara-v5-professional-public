@@ -50,3 +50,7 @@ Nace del compromiso con una inteligencia que piensa, siente y transforma.
 ---
 
 **Hecho con 🧠 y ❤️ por profesionales que creen que la IA debe amplificar la humanidad.**
+
+
+
+> 📄 Ver también: [Guía de Compra (COMPRAR.md)](COMPRAR.md)
