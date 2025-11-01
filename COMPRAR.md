@@ -645,4 +645,17 @@ R:
 │  ✅ Garantía 30 días                                    │
 │                                                         │
 │  Early Bird: $697 (quedan 37/100 cupos)                │
-│                                                        
+│
+│  [ 🛒 COMPRAR AHORA ]                                   │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+🛒 Comprar CLARA v5.0 Professional - $697
+👥 Comprar CLARA v5.0 Team - $1,997
+🏢 Contactar para Enterprise
+�
+
+¿Todavía tienes dudas?
+📧 Envíanos un email | 💬 Chat en vivo | 📅 Agendar demo
+CLARA v5.0 PROFESSIONAL
+La pregunta no es "¿Puedo permitirme CLARA?"
+La pregunta es: "¿Puedo permitirme NO tenerla?"                     
