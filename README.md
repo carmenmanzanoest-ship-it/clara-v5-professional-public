@@ -6,13 +6,10 @@
 </p>
 
 <p align="center">
-  <em>Sistema de Inteligencia Estratégica Superior – CLARA v5.0 Professional</em>
+  
 </p>
 
 > *Emblema oficial del Sistema de Inteligencia Estratégica Superior – CLARA v5.0*
-
-
-
 
 
 
