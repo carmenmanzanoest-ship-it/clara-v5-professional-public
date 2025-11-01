@@ -2,7 +2,11 @@
 ### Sistema de Inteligencia Estratégica Superior  
 
 <p align="center">
-  <img src="clara-v5-professional-public/clara-5.0.jpeg" alt="CLARA v5.0" width="280">
+  <img src="imagen%20clara%205.0.jpeg" alt="CLARA v5.0" width="280">
+</p>
+
+<p align="center">
+  <em>Sistema de Inteligencia Estratégica Superior – CLARA v5.0 Professional</em>
 </p>
 
 > *Emblema oficial del Sistema de Inteligencia Estratégica Superior – CLARA v5.0*
