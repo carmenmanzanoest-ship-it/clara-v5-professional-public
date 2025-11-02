@@ -395,11 +395,11 @@ Evaluación holística multidimensional
 Sistema de modos adaptativos combinables
 📞 Contacto
 🌐 Website: www.clara-v5.com (próximamente)
-📧 Email General: contacto@clara-v5.com
-📧 Email Ventas: ventas@clara-v5.com
-📧 Email Soporte: soporte@clara-v5.com
-📧 Email Enterprise: enterprise@clara-v5.com
-💼 LinkedIn: Carmen Delia Manzano
+📧 Email General: controlsafemail.365@keemail.me
+📧 Email Ventas: controlsafemail.365@keemail.me
+📧 Email Soporte: controlsafemail.365@keemail.me
+📧 Email Enterprise: controlsafemail.365@keemail.me 
+� LinkedIn: Carmen Delia Manzano
 🐦 Twitter: @ClaraV5Pro (próximamente)
 🚀 Comienza Ahora
 Opción 1: Explorar Documentación
