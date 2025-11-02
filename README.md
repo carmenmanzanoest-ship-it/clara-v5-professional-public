@@ -1,3 +1,14 @@
+[![Versión](https://img.shields.io/badge/versión-5.0-blue.svg)]()
+[![Licencia](https://img.shields.io/badge/licencia-Propietaria-red.svg)](LICENSE.md)
+[![Estado](https://img.shields.io/badge/estado-Producción-green.svg)]()
+
+
+
+
+
+
+
+
 📄 README.md COMPLETO PARA REPOSITORIO PÚBLICO
 �
 create text/markdown README.md - Completo para Repositorio Público readme_completo_publico # 🧠 CLARA v5.0 PROFESSIONAL
