@@ -442,7 +442,7 @@ La pregunta es: '¿Puedo permitirme seguir decidiendo sobre millones y miles de 
 <p align="center">
   <em>Hecho con 🧠 y ❤️ por profesionales que creen que la IA debe amplificar la humanidad, no sustituirla.</em><br>
   © 2025 Carmen Delia Manzano. Todos los derechos reservados.<br>
-  <a href="#🧠-clara-v50-professional">⬆ Volver arriba</a>
+  <a href="#🧠-clara-v5.0-professional">⬆ Volver arriba</a>
 </p>
 
 
