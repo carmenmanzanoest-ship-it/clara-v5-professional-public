@@ -436,12 +436,28 @@ La pregunta es: '¿Puedo permitirme seguir decidiendo sobre millones y miles de 
 � 
 
 <p align="center">
-  <img src="assets/imágenes/logo%20clara%205.0%20profesional.png" alt="Logo Clara 5.0 Profesional" width="180"/>
+  <img src="assets/imágenes/logo%20clara%205.0%20profesional.png" alt="Logo Clara 5.0 Profesional" width="180">
+</p>
+
+<p align="center">
+  <em>Hecho con 🧠 y ❤️ por profesionales que creen que la IA debe amplificar la humanidad, no sustituirla.</em><br>
+  © 2025 Carmen Delia Manzano. Todos los derechos reservados.<br>
+  <a href="#🧠-clara-v50-professional">⬆ Volver arriba</a>
 </p>
 
 
 
 
-Hecho con 🧠 y ❤️ por profesionales que creen que la IA debe amplificar la humanidad, no sustituirla.
-© 2025 Carmen Delia Manzano. Todos los derechos reservados.
-⬆ Volver arriba
+
+
+
+
+
+
+
+
+
+
+
+
+
