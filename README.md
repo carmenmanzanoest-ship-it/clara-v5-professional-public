@@ -100,7 +100,7 @@ Checklist de Implementación
 Dashboard de KPIs
 🔷 Educación y Capacitación (3)
 Programa de Alfabetización IA (4 niveles)
-Casos de Estudio Éticos Dilémicos
+Casos de Esporargarmagenmagenmagenudio Éticos Dilémicos
 Plan Curricular Completo
 🔷 Bienestar Cognitivo (3) ⭐ Innovación
 Protocolo de Detección de Sobrecarga Cognitiva
@@ -433,9 +433,15 @@ Primeros 100 compradores: $697 (Ahorro $300)
 "La pregunta no es '¿Puedo permitirme CLARA?'
 La pregunta es: '¿Puedo permitirme seguir decidiendo sobre millones y miles de personas sin ella?'"
 �
-�
-Cargar imagen
-Cargar imagen
+� 
+
+<p align="center">
+  <img src="assets/imágenes/logo%20clara%205.0%20profesional.png" alt="Logo Clara 5.0 Profesional" width="180"/>
+</p>
+
+
+
+
 Hecho con 🧠 y ❤️ por profesionales que creen que la IA debe amplificar la humanidad, no sustituirla.
 © 2025 Carmen Delia Manzano. Todos los derechos reservados.
 ⬆ Volver arriba
