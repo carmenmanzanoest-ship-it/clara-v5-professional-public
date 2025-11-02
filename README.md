@@ -399,7 +399,7 @@ Sistema de modos adaptativos combinables
 📧 Email Ventas: controlsafemail.365@keemail.me
 📧 Email Soporte: controlsafemail.365@keemail.me
 📧 Email Enterprise: controlsafemail.365@keemail.me 
-� LinkedIn: Carmen Delia Manzano
+� LinkedIn: Carmen Delia Manzano https://www.linkedin.com/in/carmen-delia-manzano
 🐦 Twitter: @ClaraV5Pro (próximamente)
 🚀 Comienza Ahora
 Opción 1: Explorar Documentación
@@ -416,7 +416,7 @@ Opción 2: Ver Pricing y Comprar
 📋 Ver Guía de Compra Completa →
 ❓ Leer Preguntas Frecuentes →
 Opción 3: Contactar Directamente
-📧 Email: ventas@clara-v5.com
+📧 Email: controlsafemail.365@keemail.me
 💬 Asunto: "Consulta sobre CLARA v5.0"
 💡 Recursos Adicionales
 📺 Video Demo 5 minutos (próximamente)
