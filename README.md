@@ -436,7 +436,7 @@ La pregunta es: '¿Puedo permitirme seguir decidiendo sobre millones y miles de 
 � 
 
 <p align="center">
-  <img src="assets/imágenes/logo%20clara%205.0%20profesional.png" alt="Logo Clara 5.0 Profesional" width="180">
+  <img src="assets/imágenes/logo%20clara%205.0%20profesional.png" alt="Logo Clara 50 Profesional" width="180">
 </p>
 
 <p align="center">
