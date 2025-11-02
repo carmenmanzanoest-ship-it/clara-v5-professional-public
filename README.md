@@ -15,14 +15,14 @@ create text/markdown README.md - Completo para Repositorio Público readme_compl
 Sistema de Inteligencia Estratégica Superior
 �
 �
+�<p align="center">
+  <img src="assets/imágenes/logo%20clara%205.0%20profesional.png" alt="Logo Clara 5.0 Profesional" width="150" style="margin-right:20px;"/>
+  <img src="assets/imágenes/imagen%20clara%205.0.jpeg" alt="Imagen Clara 5.0" width="400"/>
+</p>
 �
-�
-Cargar imagen
-Cargar imagen
-Cargar imagen
-Cargar imagen
-�
-Cargar imagen
+
+
+
 "Donde la excelencia operativa encuentra la sabiduría filosófica"
 🎯 ¿Qué es CLARA v5.0 Professional?
 CLARA v5.0 Professional es el primer Sistema de Inteligencia Estratégica que fusiona:
