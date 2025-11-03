@@ -3,11 +3,11 @@
 create text/markdown LICENSE.md - Clara v5.0 Professional license_clara_v5 # ⚖️ LICENCIA PROPIETARIA - CLARA v5.0 PROFESSIONAL
 Sistema de Inteligencia Estratégica Superior
 📋 INFORMACIÓN DE COPYRIGHT
-Copyright © 2025 [Tu Nombre/Empresa]. Todos los derechos reservados.
+Copyright © 2025 [Carmen Delia Manzano]. Todos los derechos reservados.
 Nombre del Producto: CLARA v5.0 Professional
 Versión: 5.0.0
 Fecha de Publicación: 31 de Octubre de 2025
-Jurisdicción: [Tu País/Región]
+Jurisdicción: [España]
 🔒 DECLARACIÓN DE PROPIEDAD
 Este trabajo, incluyendo pero no limitado a:
 El prompt completo de CLARA v5.0 Professional (19,500 palabras)
@@ -20,7 +20,7 @@ Los protocolos de protección cognitiva (innovación sin precedentes)
 Las matrices de evaluación multidimensional (exclusivas v5.0)
 Todos los materiales visuales, diagramas y gráficos
 Cualquier obra derivada del contenido anterior
-...es propiedad exclusiva e intelectual de [Tu Nombre/Empresa] y está protegido por las leyes de derechos de autor internacionales, incluyendo pero no limitado a:
+...es propiedad exclusiva e intelectual de [Carmen Delia Manzano] y está protegido por las leyes de derechos de autor internacionales, incluyendo pero no limitado a:
 Convención de Berna para la Protección de las Obras Literarias y Artísticas
 Tratado de la OMPI sobre Derecho de Autor (WCT)
 Leyes de propiedad intelectual locales aplicables
