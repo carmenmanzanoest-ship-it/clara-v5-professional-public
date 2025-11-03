@@ -288,7 +288,7 @@ Preguntas sobre Licencia: [licensing@clara-v5.com](mailto:licensing@clara-v5.com
 
 
 
-[⬆ Volver arriba](#)
+
 
 
 
