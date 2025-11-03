@@ -279,7 +279,7 @@ No requiere:
 📔 Frameworks - Ejemplos de herramientas disponibles
 🤝 Soporte y Comunidad
 Professional Tier
-📧 Email prioritario: soporte@clara-v5.com (respuesta 48h)
+📧 Email prioritario: controlsafemail.365@keemail.me (respuesta 48h)
 💬 Comunidad privada: Discord/Circle
 📚 Base de conocimientos
 Team Tier
