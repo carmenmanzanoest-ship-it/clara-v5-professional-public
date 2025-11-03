@@ -174,8 +174,8 @@ Reclamación de daños y perjuicios
 📧 REPORTE DE VIOLACIONES
 Si detectas uso no autorizado de CLARA v5.0:
 Contacto Confidencial:
-📧 Email: legal@clara-v5.com
-📋 Formulario: https://clara-v5.com/report-violation
+📧 Email: controlsafemail.365@keemail.me
+
 🔒 Toda información tratada confidencialmente
 Recompensas por Reporte:
 Violación Menor: $100 en créditos
