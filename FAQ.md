@@ -1051,7 +1051,7 @@ partnerships@clara-v5.com
 
 **Aplicar:**
 📧 affiliates@clara-v5.com con:
-- Tu perfil (web, LinkedIn, audiencia) https://www.linkedin.com/in/carmen-delia-manzano
+- Tu perfil (web, LinkedIn, audiencia)
 - Cómo planeas promocionar CLARA
 - Expectativa de ventas/mes
 
