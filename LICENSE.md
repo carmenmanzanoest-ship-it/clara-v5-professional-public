@@ -266,7 +266,7 @@ TODA VIOLACIÓN DE ESTA LICENCIA CONSTITUYE INFRACCIÓN DE DERECHOS DE AUTOR Y S
 �
 
 LICENCIA PROPIETARIA - CLARA v5.0 PROFESSIONAL
-Copyright © 2025 [Tu Nombre/Empresa]
+Copyright © 2025 [Carmen Delia Manzano]
 Todos los derechos reservados
 "La innovación merece protección. La excelencia merece reconocimiento."
 📧 Preguntas sobre Licencia: licensing@clara-v5.com
