@@ -431,7 +431,7 @@ Opción 3: Contactar Directamente
 
 **¡Las contribuciones son bienvenidas!**
 
-Por favor lee nuestra [Guía de Contribución](CONTRIBUTING.md) antes de enviar un Pull Request.
+Por favor lee nuestra [Guía de Contribución](https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public/blob/main/CONTRIBUITING.md) antes de enviar un Pull Request.
 
 **Formas de contribuir:**
 - 📝 Mejorar documentación
