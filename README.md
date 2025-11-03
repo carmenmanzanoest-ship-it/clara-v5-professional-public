@@ -114,7 +114,7 @@ Significado
 [VERIFICADO]
 95-100%
 Conocimiento base confirmado
-[EVIDENCIA CIENTÍFICA]
+[EVIGuíanciónIENTÍFICA]
 95-100%
 Respaldado por investigación peer-reviewed
 [ESTIMADO]
@@ -442,9 +442,6 @@ Por favor lee nuestra [Guía de Contribución](CONTRIBUTING.md) antes de enviar 
 
 **[→ Ver Guía de Contribución Completa](https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public/blob/main/CONTRIBUITING.md)**
 
-https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public/blob/main/CONTRIBUITING.md
-
-🔗 Guía de Contribución
 
 
 
