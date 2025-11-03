@@ -269,9 +269,19 @@ LICENCIA PROPIETARIA - CLARA v5.0 PROFESSIONAL
 Copyright © 2025 [Carmen Delia Manzano]
 Todos los derechos reservados
 "La innovación merece protección. La excelencia merece reconocimiento."
-📧 Preguntas sobre Licencia: licensing@clara-v5.com
-🌐 Website: https://www.clara-v5.com
-⚖️ Legal: legal@clara-v5.com
-Versión de Licencia: 1.0
-Última Actualización: 31 de Octubre de 2025
-⬆ Volver arriba
+
+---
+
+📜 **Licencia y Contacto**
+
+Preguntas sobre Licencia: [licensing@clara-v5.com](mailto:licensing@clara-v5.com)  
+⚖️ Legal: [legal@clara-v5.com](mailto:legal@clara-v5.com)  
+
+**Versión de Licencia:** [1.0](https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public/blob/main/LICENSE.md)  
+**Última Actualización:** 31 de Octubre de 2025  
+
+[⬆ Volver arriba](#)
+
+
+
+
