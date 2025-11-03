@@ -192,8 +192,8 @@ Válida solo en primera compra (no renovaciones)
 No aplica si se detectó uso indebido o violación de licencia
 Reembolso procesado en 5-7 días hábiles
 🌍 JURISDICCIÓN Y LEY APLICABLE
-Ley Aplicable: [Tu País/Región]
-Jurisdicción: Tribunales de [Tu Ciudad/Región]
+Ley Aplicable: [España-Islas Canarias]
+Jurisdicción: Tribunales de [Las Palmas de Gran Canaria]
 Resolución de Disputas:
 Negociación de buena fe (30 días)
 Mediación (60 días)
@@ -202,16 +202,13 @@ Acción legal como último recurso
 Idioma del Acuerdo: Español (versión en inglés disponible, español prevalece en caso de conflicto)
 📞 CONTACTO Y LICENCIAS
 Adquirir Licencia
-Website: https://www.clara-v5.com/pricing
-Email Ventas: sales@clara-v5.com
-Email Soporte: support@clara-v5.com
-Email Legal: legal@clara-v5.com
+Email Ventas: controlsafemail.365@keemail.me
+Email Soporte: controlsafemail.365@keemail.me
+Email Legal: controlsafemail.365@keemail.me
 Consultas sobre Licencia
 ¿Dudas sobre qué licencia necesitas?
 ¿Necesitas licencia custom para caso especial?
-📧 Email: licensing@clara-v5.com
-📞 Teléfono: [Tu Teléfono]
-💬 Chat: https://clara-v5.com/chat
+📧 Email: controlsafemail.365@keemail.me 
 🔐 REGISTRO DE LICENCIAS
 Cada licencia adquirida recibe:
 ✅ Número de Licencia Único: CL5P-XXXX-XXXX-XXXX
