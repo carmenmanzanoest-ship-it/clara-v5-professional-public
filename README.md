@@ -425,6 +425,29 @@ Opción 3: Contactar Directamente
 🛠️ Plantillas Descargables (próximamente)
 �
 
+## 🤝 Contribuciones
+
+¿Encontraste un error en la documentación? ¿Tienes una sugerencia de mejora?
+
+**¡Las contribuciones son bienvenidas!**
+
+Por favor lee nuestra [Guía de Contribución](CONTRIBUTING.md) antes de enviar un Pull Request.
+
+**Formas de contribuir:**
+- 📝 Mejorar documentación
+- 🐛 Reportar errores
+- 💡 Sugerir mejoras
+- 🌍 Traducir a otros idiomas
+- 🎨 Crear visualizaciones
+
+**[→ Ver Guía de Contribución Completa](CONTRIBUTING.md)**
+
+
+
+
+
+
+
 🚀 ¿Listo para Transformar Tus Decisiones?
 CLARA v5.0 PROFESSIONAL
 Ejecución Impecable · Consciencia Estratégica · Transformación Sostenible
