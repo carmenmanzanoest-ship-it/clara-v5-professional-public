@@ -442,7 +442,7 @@ Por favor lee nuestra [Guía de Contribución](CONTRIBUTING.md) antes de enviar 
 
 **[→ Ver Guía de Contribución Completa](CONTRIBUTING.md)**
 
-
+https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public/blob/main/CONTRIBUITING.md
 
 
 
