@@ -440,7 +440,7 @@ Por favor lee nuestra [Guía de Contribución](CONTRIBUTING.md) antes de enviar 
 - 🌍 Traducir a otros idiomas
 - 🎨 Crear visualizaciones
 
-**[→ Ver Guía de Contribución Completa](CONTRIBUTING.md)**
+**[→ Ver Guía de Contribución Completa](https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public/blob/main/CONTRIBUITING.md)**
 
 https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public/blob/main/CONTRIBUITING.md
 
