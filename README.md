@@ -444,7 +444,7 @@ Por favor lee nuestra [Guía de Contribución](CONTRIBUTING.md) antes de enviar 
 
 https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public/blob/main/CONTRIBUITING.md
 
-
+🔗 Guía de Contribución
 
 
 
