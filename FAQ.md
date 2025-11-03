@@ -949,10 +949,9 @@ Una consultora grande personalizó:
 ### ¿Cómo contacto ventas/soporte?
 
 **Ventas General:**
+
 📧 ventas@clara-v5.com  
-📞 +52 (55) XXXX-XXXX (México)  
-💬 WhatsApp: +52 XXX XXX XXXX  
-🌐 Chat: [clara-v5.com](https://clara-v5.com) (Lun-Vie 9am-6pm CST)
+Email controlsafemail.365@keemail.me
 
 **Ventas Enterprise:**
 📧 enterprise@clara-v5.com  
@@ -1052,7 +1051,7 @@ partnerships@clara-v5.com
 
 **Aplicar:**
 📧 affiliates@clara-v5.com con:
-- Tu perfil (web, LinkedIn, audiencia)
+- Tu perfil (web, LinkedIn, audiencia) https://www.linkedin.com/in/carmen-delia-manzano
 - Cómo planeas promocionar CLARA
 - Expectativa de ventas/mes
 
@@ -1157,7 +1156,7 @@ CLARA es la diferencia entre:
 Primeros 100 compradores: $697
 🛒 Comprar CLARA v5.0 Professional
 ¿Aún tienes dudas?
-📧 Email | [💬 Chat](https://clara-v5.com/
+📧 Email controlsafemail.365@keemail.me
 
 chat) | 📅 Demo
 CLARA v5.0 PROFESSIONAL
