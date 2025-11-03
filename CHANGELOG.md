@@ -354,8 +354,8 @@ Cada entrada de changelog sigue este formato:
 ⚖️ Licencia
 📞 Reportar Issues o Sugerir Mejoras
 ¿Encontraste un error? ¿Tienes una sugerencia?
-📧 Email: feedback@clara-v5.com
-💬 Discord: Comunidad CLARA
+📧 Email: controlsafemail.365@keemail.me
+� Discord: Comunidad CLARA
 🐛 Issues: GitHub Issues
 Formato sugerido para reportes:
 Versión: v5.0.0
