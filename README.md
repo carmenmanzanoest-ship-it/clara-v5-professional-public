@@ -1,11 +1,3 @@
-[![Versión](https://img.shields.io/badge/versión-5.0-blue.svg)]()
-[![Licencia](https://img.shields.io/badge/licencia-Propietaria-red.svg)](LICENSE.md)
-[![Estado](https://img.shields.io/badge/estado-Producción-green.svg)]()
-
-
-
-📄 README.md COMPLETO PARA REPOSITORIO PÚBLICO
-�
 
 
 | Etiqueta | Estado |
