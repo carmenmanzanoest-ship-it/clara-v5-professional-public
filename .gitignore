@@ -1,287 +1,208 @@
-# --------------------------------------------------------
-# .gitignore para CLARA v5.0 PROFESSIONAL (Repositorio Público)
-# Generado por CLARA v5.1 - Protege Activos Críticos (CSC/M-VRO)
-# --------------------------------------------------------
+🚫 .gitignore - Versión Final 
+# ═══════════════════════════════════════════════
+# .gitignore para CLARA v5.0 Professional
+# Actualizado: 2025-11-13
+# ═══════════════════════════════════════════════
 
-# ARCHIVOS DEL SISTEMA OPERATIVO
+# ───────────────────────────────────────────────
+# ARCHIVOS SENSIBLES (NUNCA COMMITEAR)
+# ───────────────────────────────────────────────
+
+# Prompt completo de pago
+PROMPT_COMPLETO_v5.0.md
+PROMPT_COMPLETO_v5.0.txt
+PROMPT_COMPLETO_v5.1.md
+prompt-completo-*
+instrucciones-clara-completas*
+
+# Claves API y credenciales
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+credentials.json
+secrets.yml
+config.json
+
+# Información de clientes/usuarios
+clientes/
+usuarios-privados/
+datos-sensibles/
+*.customer.json
+clientes-beta/
+
+# ───────────────────────────────────────────────
+# ARCHIVOS TEMPORALES Y SISTEMA
+# ───────────────────────────────────────────────
+
 # macOS
 .DS_Store
 .AppleDouble
 .LSOverride
+Icon
 ._*
-.DocumentRevisions-V100
-.fseventsd
 .Spotlight-V100
-.TemporaryItems
 .Trashes
-.VolumeIcon.icns
-.com.apple.timemachine.donotpresent
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
 
 # Windows
 Thumbs.db
-Thumbs.db:encryptable
 ehthumbs.db
-ehthumbs_vista.db
-*.stackdump
-[Dd]esktop.ini
+Desktop.ini
 $RECYCLE.BIN/
-*.cab
-*.msi
-*.msix
-*.msm
-*.msp
 *.lnk
 
 # Linux
-~
-.fuse_hidden
+*~
 .directory
-.Trash-*
-.nfs*
+.fuse_hidden*
 
-# --------------------------------------------------------
-# IDES Y EDITORES
-# Visual Studio Code
+# ───────────────────────────────────────────────
+# EDITORES E IDEs
+# ───────────────────────────────────────────────
+
+# VSCode
 .vscode/
 *.code-workspace
-.history/
 
-# JetBrains (IntelliJ, PyCharm, WebStorm, etc.)
+# JetBrains IDEs
 .idea/
 *.iml
-*.ipr
-.iws
-.idea_modules/
-out/
-cmake-build-*/
+*.iws
 
 # Sublime Text
 *.sublime-project
 *.sublime-workspace
-*.tmlanguage.cache
-*.tmPreferences.cache
-*.stTheme.cache
-*.sublime_session
-*.sublime-project.workspace
 
 # Vim
-[.]*.s[a-v][a-z]
-[.]*.sw[a-p]
-[.]s[a-rt-v][a-z]
-[.]ss[a-gi-z]
-[._]sw[a-p]
-Session.vim
-Sessionx.vim
-.netrwhist
+*.swp
+*.swo
+*~
 
 # Emacs
-##
-/.emacs.desktop
-/.emacs.desktop.lock
-.elc
-auto-save-list
-tramp
-.#
+*~
+\#*\#
+.emacs.desktop
 
-# --------------------------------------------------------
-# ARCHIVOS TEMPORALES Y LOGS
+# ───────────────────────────────────────────────
+# CONTENIDO DE PAGO (NO PUBLICAR)
+# ───────────────────────────────────────────────
+
+# Guía completa de implementación
+guia-implementacion-completa.pdf
+guia-implementacion-completa.md
+implementacion-detallada/
+manual-completo/
+
+# Frameworks privados (versiones completas)
+frameworks-privados/
+frameworks-completos/
+templates-premium/
+plantillas-premium/
+
+# Casos de uso con datos reales de clientes
+casos-uso-detallados/
+casos-reales-completos/
+casos-confidenciales/
+
+# Videos, tutoriales y webinars
+videos/
+webinars/
+tutoriales-completos/
+grabaciones/
+
+# Materiales de cursos
+cursos/
+certificaciones/
+material-didactico-completo/
+
+# ───────────────────────────────────────────────
+# ARCHIVOS DE TRABAJO Y BORRADORES
+# ───────────────────────────────────────────────
+
+# Borradores y versiones previas
+_drafts/
+_borrador*.md
+*.draft.md
+versiones-previas/
+borradores/
+
+# Notas personales
+NOTAS.md
+TODO.md
+PERSONAL.md
+notas-privadas/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.backup
+~$*
+
+# ───────────────────────────────────────────────
+# LOGS Y BASES DE DATOS
+# ───────────────────────────────────────────────
+
 # Logs
 logs/
 *.log
-npm-debug.log
+npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-lerna-debug.log*
 
-# Archivos temporales
-tmp/
-temp/
-*.tmp
-*.temp
-*.swp
-*.swo
-*.bak
-*.backup
-*.cache
-.history/
+# Bases de datos locales
+*.sqlite
+*.db
+*.db3
 
-# --------------------------------------------------------
-# NODE.JS (Herramientas de Build/Front-end)
-# Dependencias
+# ───────────────────────────────────────────────
+# NODE (si se agrega automatización)
+# ───────────────────────────────────────────────
+
 node_modules/
-jspm_packages/
-bower_components/
-
-# Archivos de distribución
-dist/
-build/
-.next/
-out/
-
-# Configuración y Cache
+package-lock.json
+yarn.lock
 .npm
-.eslintcache
-.stylelintcache
-.cache/
+.yarn
 
-# --------------------------------------------------------
-# PYTHON (Scripts de Automatización/Back-end)
-# Byte-compiled / optimized / DLL files
+# ───────────────────────────────────────────────
+# PYTHON (si se agrega scripts)
+# ───────────────────────────────────────────────
+
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
-
-# Entornos Virtuales
-env/
+.Python
 venv/
+env/
 ENV/
+.venv
 
-# Distribución / packaging
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
+# ───────────────────────────────────────────────
+# ARCHIVOS COMPRIMIDOS
+# ───────────────────────────────────────────────
 
-# PyInstaller / Testing
-*.manifest
-*.spec
-htmlcov/
-.tox/
-.coverage
-.coverage.*
-nosetests.xml
-coverage.xml
-*.cover
-.hypothesis/
-.pytest_cache/
-
-# Jupyter Notebook
-.ipynb_checkpoints/
-# Excluye notebooks, ya que a menudo contienen datos intermedios
-*.ipynb
-
-# pyenv
-.python-version
-
-# --------------------------------------------------------
-# 🚨 CONTENIDO PRIVADO CRÍTICO (CSC - NUNCA COMMITEAR)
-# Activos de Propiedad Intelectual de CLARA v5.0
-prompt/clara-v5-complete.txt
-prompt/clara-v5-full.txt
-prompt/clara-v5-compressed.txt
-*-complete.txt
-*-full.txt
-frameworks/-completo.md
-frameworks/-full.md
-casos-uso/-completo.pdf
-casos-uso/-full.pdf
-casos-uso/*/detalles-confidenciales.md
-guias/implementacion-completa.pdf
-guias/*-full.pdf
-templates/.xlsx
-templates/.notion
-templates/*.fig
-templates/completos/
-
-# Datos Sensibles y Credenciales
-.env
-.env.*
-.npmrc
-.p12
-.pfx
-config/secrets.*
-credentials.*
-secrets/
-*.key
-*.pem
-*.license
-customers/
-sales/
-licencias/
-clientes/
-ejemplos-privados/
-confidencial/
-privado/
-private/
-
-# Base de datos
-*.db
-*.sqlite
-*.sqlite3
-
-# --------------------------------------------------------
-# ARCHIVOS DE COMPILACIÓN Y BINARIOS
-# Compiled source
-*.com
-*.class
-*.dll
-*.exe
-*.o
-*.so
-
-# Archives
-*.7z
-*.dmg
-*.gz
-*.iso
-*.jar
-*.rar
-*.tar
 *.zip
+*.tar.gz
+*.rar
+*.7z
 
-# --------------------------------------------------------
-# DOCUMENTOS GRANDES Y MEDIA PESADA
-assets/videos/*.mp4
-assets/videos/*.mov
-assets/imagenes/*-hd.png
-assets/imagenes/*-4k.jpg
+# Excepción: Releases oficiales
+!releases/*.zip
 
-# --------------------------------------------------------
-# HERRAMIENTAS DE TESTING Y CI/CD
-.nyc_output/
+# ───────────────────────────────────────────────
+# CARPETAS DE BUILD/DISTRIBUCIÓN
+# ───────────────────────────────────────────────
+
+dist/
+build/
+out/
+
+# ───────────────────────────────────────────────
+# TESTING Y COVERAGE
+# ───────────────────────────────────────────────
+
 coverage/
-*.lcov
-.github/workflows/secrets/
-
-# --------------------------------------------------------
-# WHITELIST (Excepciones que SÍ deben estar en el repo público)
-# ¡IMPORTANTE!: Estas líneas fuerzan la inclusión de la documentación pública
-# La estructura de carpetas en el repositorio DEBE respetar estos nombres.
-
-!README.md
-!LICENSE.md
-!CHANGELOG.md
-!TEASER.md
-!COMPRAR.md
-!FAQ.md
-!.gitignore
-
-# Muestras (solo versiones simplificadas)
-!ejemplos/
-!ejemplos/foda-completo.md
-!ejemplos/matriz-decision.md
-!casos-uso/README.md
-!casos-uso/*-resumen.md
-
-# Assets públicos (versiones ligeras)
-!assets/imagenes/logo*.png
-!assets/imagenes/diagrama*.png
-!assets/videos/demo-2min.mp4
+.nyc_output/
+*.test.js
