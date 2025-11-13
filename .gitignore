@@ -1,8 +1,10 @@
-📄 DOCUMENTO 8: .gitignore (Configuración Git)
+# --------------------------------------------------------
+# .gitignore para CLARA v5.0 PROFESSIONAL (Repositorio Público)
+# Generado por CLARA v5.1 - Protege Activos Críticos (CSC/M-VRO)
+# --------------------------------------------------------
 
-ARCHIVOS DEL SISTEMA OPERATIVO
-───────────────────────────────────────────────────────────
-macOS
+# ARCHIVOS DEL SISTEMA OPERATIVO
+# macOS
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -19,7 +21,8 @@ macOS
 Network Trash Folder
 Temporary Items
 .apdisk
-Windows
+
+# Windows
 Thumbs.db
 Thumbs.db:encryptable
 ehthumbs.db
@@ -33,30 +36,31 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
-Linux
+
+# Linux
 ~
 .fuse_hidden
 .directory
 .Trash-*
 .nfs*
-───────────────────────────────────────────────────────────
-IDEs Y EDITORES
-───────────────────────────────────────────────────────────
-Visual Studio Code
+
+# --------------------------------------------------------
+# IDES Y EDITORES
+# Visual Studio Code
 .vscode/
 *.code-workspace
 .history/
-JetBrains (IntelliJ, PyCharm, WebStorm, etc.)
+
+# JetBrains (IntelliJ, PyCharm, WebStorm, etc.)
 .idea/
 *.iml
 *.ipr
 .iws
 .idea_modules/
 out/
-cmake-build-/
-*.swp
-*.swo
-Sublime Text
+cmake-build-*/
+
+# Sublime Text
 *.sublime-project
 *.sublime-workspace
 *.tmlanguage.cache
@@ -64,7 +68,8 @@ Sublime Text
 *.stTheme.cache
 *.sublime_session
 *.sublime-project.workspace
-Vim
+
+# Vim
 [.]*.s[a-v][a-z]
 [.]*.sw[a-p]
 [.]s[a-rt-v][a-z]
@@ -73,8 +78,8 @@ Vim
 Session.vim
 Sessionx.vim
 .netrwhist
-Emacs
-~
+
+# Emacs
 ##
 /.emacs.desktop
 /.emacs.desktop.lock
@@ -82,17 +87,18 @@ Emacs
 auto-save-list
 tramp
 .#
-───────────────────────────────────────────────────────────
-ARCHIVOS TEMPORALES Y LOGS
-───────────────────────────────────────────────────────────
-Logs
+
+# --------------------------------------------------------
+# ARCHIVOS TEMPORALES Y LOGS
+# Logs
 logs/
-.log
+*.log
 npm-debug.log
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
-Archivos temporales
+
+# Archivos temporales
 tmp/
 temp/
 *.tmp
@@ -102,43 +108,41 @@ temp/
 *.bak
 *.backup
 *.cache
-───────────────────────────────────────────────────────────
-NODE.JS (Si usas herramientas de build)
-───────────────────────────────────────────────────────────
-Dependencias
+.history/
+
+# --------------------------------------------------------
+# NODE.JS (Herramientas de Build/Front-end)
+# Dependencias
 node_modules/
 jspm_packages/
 bower_components/
-Archivos de distribución
+
+# Archivos de distribución
 dist/
 build/
 .next/
 out/
-Archivos de configuración local
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-.npmrc
-Cache
+
+# Configuración y Cache
 .npm
 .eslintcache
 .stylelintcache
 .cache/
-───────────────────────────────────────────────────────────
-PYTHON (Si usas scripts de automatización)
-───────────────────────────────────────────────────────────
-Byte-compiled / optimized / DLL files
-pycache/
+
+# --------------------------------------------------------
+# PYTHON (Scripts de Automatización/Back-end)
+# Byte-compiled / optimized / DLL files
+__pycache__/
 *.py[cod]
 *$py.class
 *.so
-Distribución / packaging
-.Python
+
+# Entornos Virtuales
 env/
 venv/
 ENV/
+
+# Distribución / packaging
 build/
 develop-eggs/
 dist/
@@ -155,84 +159,85 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
-PyInstaller
+
+# PyInstaller / Testing
 *.manifest
 *.spec
-Unit test / coverage reports
 htmlcov/
 .tox/
 .coverage
 .coverage.*
-.cache
 nosetests.xml
 coverage.xml
 *.cover
 .hypothesis/
 .pytest_cache/
-Jupyter Notebook
-.ipynb_checkpoints
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+# Excluye notebooks, ya que a menudo contienen datos intermedios
 *.ipynb
-pyenv
+
+# pyenv
 .python-version
-───────────────────────────────────────────────────────────
-🚨 CONTENIDO PRIVADO (CRÍTICO - NUNCA COMMITEAR)
-───────────────────────────────────────────────────────────
-Prompt completo (debe estar en repositorio PRIVADO)
+
+# --------------------------------------------------------
+# 🚨 CONTENIDO PRIVADO CRÍTICO (CSC - NUNCA COMMITEAR)
+# Activos de Propiedad Intelectual de CLARA v5.0
 prompt/clara-v5-complete.txt
 prompt/clara-v5-full.txt
 prompt/clara-v5-compressed.txt
 *-complete.txt
 *-full.txt
-Frameworks completos (solo muestras en público)
 frameworks/-completo.md
 frameworks/-full.md
-Casos de uso completos (solo resúmenes en público)
 casos-uso/-completo.pdf
 casos-uso/-full.pdf
 casos-uso/*/detalles-confidenciales.md
-Guías completas (solo previews en público)
 guias/implementacion-completa.pdf
 guias/*-full.pdf
-Templates personalizables completos
 templates/.xlsx
 templates/.notion
 templates/*.fig
 templates/completos/
-Archivos de clientes o ejemplos sensibles
+
+# Datos Sensibles y Credenciales
+.env
+.env.*
+.npmrc
+.p12
+.pfx
+config/secrets.*
+credentials.*
+secrets/
+*.key
+*.pem
+*.license
+customers/
+sales/
+licencias/
 clientes/
 ejemplos-privados/
 confidencial/
 privado/
 private/
-Licencias vendidas y datos de clientes
-licencias/
-customers/
-sales/
-*.license
-Claves API, tokens, secretos
-.env*
-secrets/
-*.key
-*.pem
-.p12
-.pfx
-config/secrets.
-credentials.
-Base de datos (si tuvieras)
+
+# Base de datos
 *.db
 *.sqlite
 *.sqlite3
-───────────────────────────────────────────────────────────
-ARCHIVOS DE COMPILACIÓN Y BUILD
-───────────────────────────────────────────────────────────
-Compiled source
+
+# --------------------------------------------------------
+# ARCHIVOS DE COMPILACIÓN Y BINARIOS
+# Compiled source
 *.com
 *.class
 *.dll
 *.exe
 *.o
 *.so
-Archives
+
+# Archives
 *.7z
 *.dmg
 *.gz
@@ -241,51 +246,26 @@ Archives
 *.rar
 *.tar
 *.zip
-───────────────────────────────────────────────────────────
-DOCUMENTOS GRANDES O BINARIOS (Opcional)
-───────────────────────────────────────────────────────────
-Videos (si decides no commitearlos)
+
+# --------------------------------------------------------
+# DOCUMENTOS GRANDES Y MEDIA PESADA
 assets/videos/*.mp4
 assets/videos/*.mov
-Imágenes pesadas (si prefieres CDN)
 assets/imagenes/*-hd.png
 assets/imagenes/*-4k.jpg
-───────────────────────────────────────────────────────────
-HERRAMIENTAS DE TESTING Y CI/CD
-───────────────────────────────────────────────────────────
-Testing
+
+# --------------------------------------------------------
+# HERRAMIENTAS DE TESTING Y CI/CD
 .nyc_output/
 coverage/
 *.lcov
-CI/CD
 .github/workflows/secrets/
-───────────────────────────────────────────────────────────
-OTROS
-───────────────────────────────────────────────────────────
-Backups
-*.bak
-*.backup
-*~.nib
-*.swp
-*.swo
-Patches
-*.orig
-*.rej
-*.patch
-Thumbnails
-*.thumb
-Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-.com.apple.timemachine.donotpresent
-───────────────────────────────────────────────────────────
-WHITELIST (Archivos que SÍ deben estar en repo público)
-───────────────────────────────────────────────────────────
-Estos archivos DEBEN estar (el ! los excluye del .gitignore)
+
+# --------------------------------------------------------
+# WHITELIST (Excepciones que SÍ deben estar en el repo público)
+# ¡IMPORTANTE!: Estas líneas fuerzan la inclusión de la documentación pública
+# La estructura de carpetas en el repositorio DEBE respetar estos nombres.
+
 !README.md
 !LICENSE.md
 !CHANGELOG.md
@@ -293,17 +273,15 @@ Estos archivos DEBEN estar (el ! los excluye del .gitignore)
 !COMPRAR.md
 !FAQ.md
 !.gitignore
-Muestras de frameworks (versiones simplificadas)
+
+# Muestras (solo versiones simplificadas)
 !ejemplos/
 !ejemplos/foda-completo.md
 !ejemplos/matriz-decision.md
-Resúmenes de casos de uso (no versiones completas)
 !casos-uso/README.md
 !casos-uso/*-resumen.md
-Assets públicos
+
+# Assets públicos (versiones ligeras)
 !assets/imagenes/logo*.png
 !assets/imagenes/diagrama*.png
 !assets/videos/demo-2min.mp4
-═══════════════════════════════════════════════════════════
-FIN DE .gitignore
-═══════════════════════════════════════════════════════════
