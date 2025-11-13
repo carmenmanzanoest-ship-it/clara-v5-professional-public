@@ -206,3 +206,132 @@ out/
 coverage/
 .nyc_output/
 *.test.js
+*.spec.js
+.pytest_cache/
+htmlcov/
+
+# ───────────────────────────────────────────────
+# ESPECÍFICO DE CLARA v5.0
+# ───────────────────────────────────────────────
+
+# Análisis de competencia (confidencial)
+competencia/
+analisis-mercado-privado/
+investigacion-competidores/
+benchmarking-privado/
+
+# Métricas de uso de clientes
+metricas-uso/
+analytics/
+estadisticas-clientes/
+datos-anonimizados/
+
+# Feedback de beta testers (confidencial)
+beta-feedback/
+testimonios-sin-autorizacion/
+encuestas-privadas/
+focus-groups/
+
+# Estrategia de marketing interna
+marketing-estrategia/
+plan-lanzamiento-interno/
+estrategia-precios/
+campanas-privadas/
+
+# Documentación interna
+docs-internos/
+reuniones/
+actas/
+planificacion-interna/
+
+# Ventas y finanzas
+ventas/
+contratos/
+facturacion/
+financiero/
+
+# ───────────────────────────────────────────────
+# ARCHIVOS DE DESARROLLO
+# ───────────────────────────────────────────────
+
+# Pruebas y experimentos
+test/
+tests/
+experimentos/
+prototipos/
+
+# Scripts de desarrollo
+scripts-dev/
+automatizacion-interna/
+
+# ───────────────────────────────────────────────
+# PERMITIR EXPLÍCITAMENTE (Sobrescribe reglas anteriores)
+# ───────────────────────────────────────────────
+
+# Estos archivos SÍ deben estar en el repo
+!README.md
+!LICENSE.md
+!CHANGELOG.md
+!TEASER.md
+!COMPRAR.md
+!FAQ.md
+!CONTRIBUTING.md
+!CONTRIBUTORS.md
+!AUTHENTICITY.md
+!.gitignore
+
+# Assets públicos
+!assets/logo-clara-v5-0.jpeg
+!assets/*.png
+!assets/*.jpg
+!assets/*.svg
+
+# Frameworks de ejemplo (solo estos)
+!frameworks/foda-completo.md
+!frameworks/matriz-decision.md
+
+# Casos de uso públicos (solo resúmenes)
+!casos-uso/README.md
+!casos-uso/hospital-ia-diagnostica.md
+!casos-uso/startup-sesgos.md
+!casos-uso/universidad-maestria.md
+!casos-uso/corporacion-transformacion.md
+!casos-uso/ong-dilema-etico.md
+
+# ───────────────────────────────────────────────
+# SEGURIDAD ADICIONAL
+# ───────────────────────────────────────────────
+
+# Evitar commits accidentales de versiones completas
+*-completo.md
+*-full.md
+*-premium.md
+version-paga*
+version-completa*
+
+# Evitar archivos con información sensible común
+password*
+passwd*
+secret*
+private*
+confidential*
+.htpasswd
+
+# ───────────────────────────────────────────────
+# CACHE Y TEMPORALES DE HERRAMIENTAS
+# ───────────────────────────────────────────────
+
+# Cache de herramientas
+.cache/
+.temp/
+.tmp/
+
+# Thumbnails
+*.thumb
+
+# Backups automáticos
+*.autosave
+
+# ═══════════════════════════════════════════════
+# FIN DEL .gitignore
+# ═══════════════════════════════════════════════
