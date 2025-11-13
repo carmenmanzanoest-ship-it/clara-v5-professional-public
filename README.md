@@ -15,8 +15,9 @@
 | [![Estado](https://img.shields.io/badge/estado-Producción-green.svg)](COMPRAR.md) | **Disponible** |
 
 <p align="center">
-  <img src="assets/imágenes/logo%20clara%205.0%20profesional.png" alt="Logo Clara 5.0 Profesional" width="150" style="margin-right:20px;"/>
-  <img src="assets/imágenes/imagen%20clara%205.0.jpeg" alt="Imagen Clara 5.0" width="400"/>
+  <img src="https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public/blob/main/assets/im%C3%A1genes/IMAGEN%20CLARA%20v5.0%20PROFESIONAL.jpg?raw=true" 
+       alt="Imagen Clara v5.0 Profesional" 
+       width="400"/>
 </p>
 
 # 📄 README.md - Versión Final Optimizada 
