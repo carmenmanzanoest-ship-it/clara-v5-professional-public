@@ -553,6 +553,20 @@ Por favor lee nuestra **[Guía de Contribución](./CONTRIBUTING.md)** antes de e
 
 ---
 
+<p align="center">
+  <a href="https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public/blob/main/assets/im%C3%A1genes/logo%20CLARA%20v5.0.jpg" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://raw.githubusercontent.com/carmenmanzanoest-ship-it/clara-v5-professional-public/main/assets/im%C3%A1genes/logo%20CLARA%20v5.0.jpg" 
+      alt="Logo CLARA v5.0" 
+      width="220"
+      style="border-radius:8px;box-shadow:0 4px 10px rgba(0,0,0,0.1);"
+    />
+  </a>
+</p>
+
+
+
+
 ![Logo CLARA v5.0](./assets/logo-clara-v5-0.jpeg)
 
 **Hecho con 🧠 y ❤️ por profesionales que creen que la IA debe amplificar la humanidad, no sustituirla.**
