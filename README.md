@@ -6,8 +6,7 @@
 
 📄 README.md COMPLETO PARA REPOSITORIO PÚBLICO
 �
-# 🧠 CLARA v5.0 PROFESSIONAL
-## Sistema de Inteligencia Estratégica Superior con Gobernanza Ética Integrada
+
 
 | Etiqueta | Estado |
 | :--- | :--- |
@@ -20,7 +19,7 @@
   <img src="assets/imágenes/imagen%20clara%205.0.jpeg" alt="Imagen Clara 5.0" width="400"/>
 </p>
 
-# 📄 README.md - Versión Final Optimizada (Copiar y Pegar)
+# 📄 README.md - Versión Final Optimizada 
 
 ```markdown
 # 🧠 CLARA v5.0 PROFESSIONAL
