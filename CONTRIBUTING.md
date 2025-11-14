@@ -310,7 +310,7 @@ Publicar información privada de otros sin permiso
 Conducta que podría considerarse inapropiada profesionalmente
 Enforcement
 Instancias de comportamiento inaceptable pueden reportarse a:
-📧 Email: conduct@clara-v5.com
+📧 Email: controlsafemail.365@keemail.me
 Todas las quejas serán revisadas e investigadas, resultando en una respuesta apropiada. El equipo está obligado a mantener confidencialidad.
 📚 Recursos Útiles
 Documentación
