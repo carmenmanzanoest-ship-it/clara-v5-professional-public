@@ -236,7 +236,7 @@ Firmado digitalmente:
 Carmen Delia Manzano
 Creadora y Fundadora - CLARA v5.0 Professional
 Fecha: 02 de Noviembre de 2025
-Verificar autenticidad: contacto@clara-v5.com
+Verificar autenticidad: controlsafemail.365@keemail.me
 �
 
 🔐 AUTENTICIDAD GARANTIZADA
