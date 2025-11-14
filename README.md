@@ -554,7 +554,7 @@ Por favor lee nuestra **[Guía de Contribución](./CONTRIBUTING.md)** antes de e
 ---
 
 <p align="center">
-  <img src="clara-v5-professional-public./assets/imágenes/logo CLARA v5.0.jpgim%C3%A1genes/logo%20CLARA%20v5.0.jpg" alt="Logo CLARA v5.0" width="600"/>
+  <img src="./assets/imágenes/logo-CLARA-v5-0.jpg" alt="Logo CLARA v5.0" width="600"/>
 </p>
 
 
