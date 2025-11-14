@@ -6,8 +6,7 @@ Sistema de Inteligencia Estratégica Superior
 Creadora Original
 CLARA v5.0 Professional ha sido creado, desarrollado y mantenido por:
 Carmen Delia Manzano
-📧 Email: contacto@clara-v5.com
-🌐 Website: https://clara-v5.com (en desarrollo)
+📧 Email: controlsafemail.365@keemail.me Website: https://clara-v5.com (en desarrollo)
 📍 Ubicación: [Tu Ciudad, País]
 💼 LinkedIn: [Tu perfil LinkedIn]
 Fecha de Creación: Octubre 2025
