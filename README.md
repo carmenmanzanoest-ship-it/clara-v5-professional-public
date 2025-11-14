@@ -23,6 +23,39 @@
 
 
 
+## 📘 CLARA v5.0 — Documento Institucional (Zenodo)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17593300.svg)](https://doi.org/10.5281/zenodo.17593300)
+
+**Título:** *Carpeta Institucional – CLARA v5.0 en Acción*  
+**Autora:** Carmen Delia Manzano  
+**Publicación:** 12 noviembre 2025  
+**Licencia:** CC BY-NC-ND 4.0  
+**Descargar PDF:**  
+➡️ https://doi.org/10.5281/zenodo.17593300
+
+---
+
+### 📑 Descripción
+Documento institucional que presenta la arquitectura **CLARA v5.0**, un marco para gobernanza ética, validación operativa y prevención de riesgo estructural aplicado a inteligencia artificial, liderazgo organizacional y procesos críticos.
+
+Incluye análisis, casos reales, anexos técnicos y la aplicación de:
+- Módulo de Validación de Realidad Operativa (M-VRO)  
+- Protocolo de Intervención Humana Obligatoria (IHO)  
+- Detección de Falsa Certeza Estructural (FCE)
+
+---
+
+### 🔗 Cita recomendada (APA)
+
+Carmen Delia Manzano. (2025). *Carpeta Institucional – CLARA v5.0 en Acción*. Zenodo. https://doi.org/10.5281/zenodo.17593300
+
+---
+
+### 🔧 Repositorio vinculado
+GitHub (artefactos, soporte y desarrollo):  
+➡️ https://github.com/carmenmanzanoest-ship-it
+
 
 
 # 📄 README.md - carmenmanzanoest-ship-it Final Optimizada 
