@@ -405,7 +405,7 @@ R: Sí. Video demo 5 minutos o Agendar demo personalizada 15 min
 Más preguntas: contacto@clara-v5.com
 ⚖️ Nota Legal
 Este teaser muestra aproximadamente 2.5% del sistema completo. El contenido completo está protegido por licencia propietaria. Ver LICENSE.md para términos completos.
-Copyright © 2025 [Tu Nombre/Empresa]. Todos los derechos reservados.
+Copyright © 2025 [Carmen Delia Manzano]. Todos los derechos reservados.
 �
 
 CLARA v5.0 PROFESSIONAL
