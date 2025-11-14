@@ -554,9 +554,8 @@ Por favor lee nuestra **[Guía de Contribución](./CONTRIBUTING.md)** antes de e
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/carmenmanzanoest-ship-it/clara-v5-professional-public/main/assets/im%C3%A1genes/logo%20CLARA%20v5.0.jpg" alt="Logo CLARA v5.0" width="300" />
+  <img src="./assets/im%C3%A1genes/logo%20CLARA%20v5.0.jpg" alt="Logo CLARA v5.0" width="600"/>
 </p>
-
 
 
 ![Logo CLARA v5.0](./assets/logo-clara-v5-0.jpeg)
