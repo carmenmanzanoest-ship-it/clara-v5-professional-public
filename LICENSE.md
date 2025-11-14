@@ -1,4 +1,4 @@
-📄 DOCUMENTO 3: LICENSE.md
+aDOCUMENTO 3: LICENSE.md
 �
 create text/markdown LICENSE.md - Clara v5.0 Professional license_clara_v5 # ⚖️ LICENCIA PROPIETARIA - CLARA v5.0 PROFESSIONAL
 Sistema de Inteligencia Estratégica Superior
@@ -186,7 +186,7 @@ Garantía de 30 Días
 Todas las licencias incluyen:
 ✅ 30 días de garantía de satisfacción total
 ✅ Reembolso completo sin preguntas si no estás satisfecho
-✅ Proceso simple: Email a refunds@clara-v5.com
+✅ Proceso simple: Email a controlsafemail.365@keemail.me
 Condiciones:
 Válida solo en primera compra (no renovaciones)
 No aplica si se detectó uso indebido o violación de licencia
