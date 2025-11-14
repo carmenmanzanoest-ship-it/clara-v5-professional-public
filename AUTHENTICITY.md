@@ -7,8 +7,8 @@ Creadora Original
 CLARA v5.0 Professional ha sido creado, desarrollado y mantenido por:
 Carmen Delia Manzano
 📧 Email: controlsafemail.365@keemail.me Website: https://clara-v5.com (en desarrollo)
-📍 Ubicación: [Tu Ciudad, País]
-💼 LinkedIn: [Tu perfil LinkedIn]
+📍 Ubicación: [Las Palmas de Gran CanariaLinkedIn]
+💼 LinkedIn: [https://www.linkedin.com/in/carmen-delia-manzano]
 Fecha de Creación: Octubre 2025
 Versión Actual: 5.0.0
 Última Actualización: 02 de Noviembre de 2025
