@@ -6,16 +6,20 @@
 | [![Licencia](https://img.shields.io/badge/licencia-Propietaria-red.svg)](LICENSE.md) | **Propiedad Exclusiva** |
 | [![Estado](https://img.shields.io/badge/estado-Producción-green.svg)](COMPRAR.md) | **Disponible** |
 
+
+
 <p align="center">
-  <img src="https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public/blob/main/assets/im%C3%A1genes/IMAGEN%20CLARA%20v5.0%20PROFESIONAL.jpg?raw=true" 
-       alt="Imagen Clara v5.0 Profesional" 
-       width="400"/>
+  <img src="https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public/raw/main/assets/logo-CLARA-v5-0.jpg" 
+       alt="Logo CLARA v5.0" 
+       width="600"/>
 </p>
 
 
-
-
-
+<p align="center">
+  <img src="https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public/raw/main/assets/IMAGEN%20CLARA%20v5.0%20PROFESIONAL.jpg" 
+       alt="Imagen Clara v5.0 Profesional" 
+       width="400"/>
+</p>
 
 
 
