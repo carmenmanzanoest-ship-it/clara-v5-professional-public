@@ -10,7 +10,7 @@ cat > CONTRIBUTORS.md << 'EOF'
 
 **Carmen Delia Manzano**  
 *Creadora y mantenedora principal*  
-[LinkedIn](tu-linkedin) | [Email](mailto:contacto@clara-v5.com)
+[LinkedIn](https://www.linkedin.com/in/carmen-delia-manzano) | [Email](controlsafemail.365@keemail.me)
 
 ---
 
