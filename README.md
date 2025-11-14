@@ -14,9 +14,6 @@
 
 
 
-<div align="center">
-  ![Logo CLARA v5.0](https://githubusercontent.com/carmenmanzanoest-ship-it/clara-v5-professional-public/main/assets/im%C3%A1genes/logo-CLARA-v5-0.jpg)
-</div>
 
 
 
@@ -24,14 +21,7 @@
 
 
 
-
-
-
-
-
-
-
-# 📄 README.md - Versión Final Optimizada 
+# 📄 README.md - carmenmanzanoest-ship-it Final Optimizada 
 
 ```markdown
 # 🧠 CLARA v5.0 PROFESSIONAL
