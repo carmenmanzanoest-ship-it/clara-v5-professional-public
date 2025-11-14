@@ -563,4 +563,34 @@ Si churn sube a 12% (+4pp vs. estimado 8%):
 | Marketing LATAM        | Mes 1  | 18    | €3k         | €54k     |
 | Country Manager        | Mes 7  | 12    | €4k         | €48k     |
 | CSM                    | Mes 8  | 11    | €2.5k       | €27.5k   |
-| **TOTAL PERSONAL**     | -  
+| **TOTAL PERSONAL
+-
+-
+-
+€169.5k
+Nota: Incluye salarios brutos + cargas sociales estimadas México [ESTIMADO ±15%]
+═══════════════════════════════════════════════
+📊 KPIS Y DASHBOARD DE SEGUIMIENTO
+═══════════════════════════════════════════════
+KPIs Críticos por Fase
+FASE 1 (Meses 1-6): Validación
+KPIs Primarios:
+🎯 Clientes Pagos: Meta 10 | Frecuencia: Mensual
+💰 MRR: Meta €8k | Frecuencia: Mensual
+📈 Leads Calificados: Meta 100 total | Frecuencia: Mensual (17/mes)
+💵 CAC: Meta €1,200 | Frecuencia: Mensual
+KPIs Secundarios:
+Tasa conversión lead-cliente: Meta 10%
+Tiempo promedio cierre: Meta 45 días
+NPS primeros 90 días: Meta >40
+🚨 Red Flags Fase 1:
+Si MRR Mes 6 < €5k → Revisar product-market fit
+Si CAC > €1,800 → Revisar canal adquisición
+Si NPS < 20 → Problema de producto/onboarding
+FASE 2 (Meses 7-12): Expansión
+KPIs Primarios:
+🎯 Clientes Totales: Meta 40 | Frecuencia: Mensual
+💰 ARR: Meta €384k | Frecuencia: Mensual
+📉 Churn Rate: Meta <8% | Frecuencia: Mensual
+💵 CAC Blended: Meta €1,200 | Frecuencia: Mensual
+KPIs Secundarios:
