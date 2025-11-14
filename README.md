@@ -15,7 +15,7 @@
 
 
 <div align="center">
-  ![Logo CLARA v5.0](https://raw.githubusercontent.com/carmenmanzanoest-ship-it/clara-v5-professional-public/main/assets/im%C3%A1genes/logo-CLARA-v5-0.jpg)
+  ![Logo CLARA v5.0](https://githubusercontent.com/carmenmanzanoest-ship-it/clara-v5-professional-public/main/assets/im%C3%A1genes/logo-CLARA-v5-0.jpg)
 </div>
 
 
