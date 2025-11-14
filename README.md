@@ -26,7 +26,7 @@
 | [![Estado](https://img.shields.io/badge/estado-Producción-green.svg)](COMPRAR.md) | **Disponible** |
 
 <p align="center">
-  <img src="./assets/logo-clara-v5-0.jpeg" alt="Logo CLARA v5.0" width="600"/>
+  <img src="./assets/logo-clara-v5-0.jpg" alt="Logo CLARA v5.0" width="600"/>
 </p>
 
 > **"Donde la excelencia operativa encuentra la sabiduría filosófica y la responsabilidad ética."**
