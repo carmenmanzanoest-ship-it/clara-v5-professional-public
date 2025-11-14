@@ -13,9 +13,11 @@
 </p>
 
 
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/carmenmanzanoest-ship-it/clara-v5-professional-public/main/assets/im%C3%A1genes/logo-CLARA-v5-0.jpg" alt="Logo CLARA v5.0 - Asistente Consultivo Ético" width="400"/>
+  ![Logo CLARA v5.0](https://raw.githubusercontent.com/carmenmanzanoest-ship-it/clara-v5-professional-public/main/assets/im%C3%A1genes/logo-CLARA-v5-0.jpg)
 </div>
+
 
 
 
