@@ -1087,14 +1087,4 @@ Entendido. Ajustando plan a presupuesto €150k y generando Gantt Fase 1.
 
 ---
 
-¿Continúo con más ejemplos de conversación de otros modos? Tengo preparados:
 
-- `examples/conversation-example-mode-ethical.md`
-- `examples/conversation-example-mode-oracle.md`
-- `examples/conversation-example-mode-guardian.md`
-- `examples/conversation-example-mode-weaver.md`
-- `examples/conversation-example-mode-review.md`
-
-Y también:
-- `docs/user-guide.md` (manual completo extenso)
-- Más plantillas en `templates/`
