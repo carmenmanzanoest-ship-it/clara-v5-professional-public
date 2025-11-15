@@ -1,13 +1,6 @@
+📄 COMPRAR.md 
 
-
-## 📄: COMPRAR.md (Guía de Compra)
-
-<invoke name="artifacts">
-<parameter name="command">create</parameter>
-<parameter name="type">text/markdown</parameter>
-<parameter name="title">COMPRAR.md - Guía de Compra Clara v5.0</parameter>
-<parameter name="id">comprar_clara_v5</parameter>
-<parameter name="content"># 🛒 CÓMO COMPRAR CLARA v5.0 PROFESSIONAL
+🛒 CÓMO COMPRAR CLARA v5.0 PROFESSIONAL
 
 **Sistema de Inteligencia Estratégica Superior**
 
@@ -16,8 +9,6 @@
 ## 🎯 Proceso de Compra en 3 Pasos Simples
 
 ### PASO 1: Elige Tu Plan (2 minutos)
-
-```
 ┌─────────────────────────────────────────────────────────┐
 │  ¿QUÉ PLAN ES PARA TI?                                  │
 ├─────────────────────────────────────────────────────────┤
@@ -28,7 +19,7 @@
 │  ✓ Eres profesional individual                         │
 │  ✓ Tomas decisiones estratégicas personales            │
 │                                                         │
-│  → [Ver Plan Professional](#plan-professional)          │
+│  → Ver Plan Professional          │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
@@ -38,7 +29,7 @@
 │  ✓ Necesitan acceso colaborativo                       │
 │  ✓ Quieren workshops y onboarding grupal               │
 │                                                         │
-│  → [Ver Plan Team](#plan-team)                          │
+│  → Ver Plan Team                          │
 │                                                         │
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
@@ -48,11 +39,9 @@
 │  ✓ Universidad/institución académica                   │
 │  ✓ Necesitan customización y soporte dedicado          │
 │                                                         │
-│  → [Ver Plan Enterprise](#plan-enterprise)              │
+│  → Ver Plan Enterprise              │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ### PASO 2: Realiza el Pago (5 minutos)
@@ -80,7 +69,7 @@ Aceptamos múltiples métodos de pago seguros:
 #### 🏦 Opción B: Transferencia Bancaria
 **Para organizaciones que requieren factura formal**
 
-1. Solicita datos bancarios: ventas@clara-v5.com
+1. Solicita datos bancarios: **controlsafemail.365@keemail.me**
 2. Incluye en email:
    - Plan elegido (Professional/Team/Enterprise)
    - Datos de facturación completos
@@ -98,7 +87,7 @@ Aceptamos múltiples métodos de pago seguros:
 
 1. Descarga formato de cotización: [clara-v5-cotizacion.pdf](https://clara-v5.com/cotizacion.pdf)
 2. Completa con datos de tu organización
-3. Envía a: enterprise@clara-v5.com
+3. Envía a: **controlsafemail.365@keemail.me**
 4. Nuestro equipo genera orden formal en 24h
 5. Tu organización procesa según su flujo interno
 6. Acceso tras confirmación de pago
@@ -114,62 +103,44 @@ Dependiendo del método de pago:
 #### ⚡ Acceso Inmediato (Stripe)
 
 **Email de Confirmación incluye:**
-
-```
 ═══════════════════════════════════════════════════════════
 🎉 ¡BIENVENIDO A CLARA v5.0 PROFESSIONAL!
 ═══════════════════════════════════════════════════════════
-
 Hola [Tu Nombre],
-
 Tu licencia ha sido activada exitosamente.
-
 📋 INFORMACIÓN DE TU LICENCIA:
-   Número: CL5P-XXXX-XXXX-XXXX
-   Plan: Professional
-   Usuarios: 1
-   Válida hasta: [Fecha + 365 días]
-
+Número: CL5P-XXXX-XXXX-XXXX
+Plan: Professional
+Usuarios: 1
+Válida hasta: [Fecha + 365 días]
 📦 ACCESO AL SISTEMA COMPLETO:
-
-   Opción A: Repositorio GitHub Privado
-   → Invitación enviada a tu email
-   → Acepta y tendrás acceso completo
-
-   Opción B: Descarga Directa
-   → Link de descarga (válido 7 días):
-   → [link-seguro-temporal]
-
+Opción A: Repositorio GitHub Privado
+→ Invitación enviada a tu email
+→ Acepta y tendrás acceso completo
+Opción B: Descarga Directa
+→ Link de descarga (válido 7 días):
+→ [link-seguro-temporal]
 📁 ARCHIVOS INCLUIDOS:
-   ✓ Prompt completo (19,500 palabras) - clara-v5-complete.txt
-   ✓ Guía de implementación (50 páginas) - guia-implementacion.pdf
-   ✓ 40+ frameworks en carpetas por categoría
-   ✓ 5 casos de uso completos
-   ✓ Templates personalizables (Excel, Notion, Figma)
-
+✓ Prompt completo (19,500 palabras) - clara-v5-complete.txt
+✓ Guía de implementación (50 páginas) - guia-implementacion.pdf
+✓ 40+ frameworks en carpetas por categoría
+✓ 5 casos de uso completos
+✓ Templates personalizables (Excel, Notion, Figma)
 🚀 PRIMEROS PASOS:
-   1. Lee "Inicio Rápido" (5 minutos)
-   2. Implementa en Claude/ChatGPT (2 minutos)
-   3. Primera interacción: [E] CLARA, preséntate
-
+Lee "Inicio Rápido" (5 minutos)
+Implementa en Claude/ChatGPT (2 minutos)
+Primera interacción: [E] CLARA, preséntate
 💬 COMUNIDAD Y SOPORTE:
-   Discord: [link de invitación única]
-   Email: support@clara-v5.com (respuesta 48h)
-
+Discord: [link de invitación única]
+Email: controlsafemail.365@keemail.me (respuesta 48h)
 📚 RECURSOS ADICIONALES:
-   Video tutorial: https://clara-v5.com/tutorial
-   Base de conocimientos: https://docs.clara-v5.com
-   Calendario workshops: https://clara-v5.com/workshops
-
+Video tutorial: https://clara-v5.com/tutorial
+Base de conocimientos: https://docs.clara-v5.com
+Calendario workshops: https://clara-v5.com/workshops
 ═══════════════════════════════════════════════════════════
-
-¿Preguntas? Responde este email o escribe a support@clara-v5.com
-
+¿Preguntas? Responde este email o escribe a controlsafemail.365@keemail.me
 Gracias por confiar en CLARA v5.0 Professional.
-
 Equipo CLARA
-```
-
 ---
 
 #### 🏦 Acceso con Verificación Manual (24-48h)
@@ -185,15 +156,11 @@ Para transferencia bancaria u orden de compra:
 ## 💰 PLANES Y PRECIOS DETALLADOS
 
 ### 🥉 PLAN PROFESSIONAL (Individual)
-
-```
 ═══════════════════════════════════════════════════════════
 CLARA v5.0 PROFESSIONAL - PLAN INDIVIDUAL
 ═══════════════════════════════════════════════════════════
-
 PRECIO REGULAR: $997/año ($83/mes)
 EARLY BIRD: $697/año (Ahorro $300 - Solo primeros 100)
-
 INCLUYE:
 ✓ 1 usuario autorizado
 ✓ Prompt completo (19,500 palabras)
@@ -208,39 +175,29 @@ INCLUYE:
 ✓ Acceso a comunidad privada (Discord)
 ✓ Base de conocimientos
 ✓ Garantía 30 días sin preguntas
-
 NO INCLUYE:
 ❌ Acceso multiusuario
 ❌ Onboarding personalizado
 ❌ Templates customizados a marca
 ❌ Workshops exclusivos
-
 IDEAL PARA:
 → Consultores independientes
 → Emprendedores/fundadores
 → Profesionales individuales
 → Académicos e investigadores
-
 LÍMITE: 1 usuario (no transferible)
 RENOVACIÓN: Opcional (mantiene acceso a contenido sin renovar)
-
 ═══════════════════════════════════════════════════════════
-```
-
-**[🛒 Comprar Plan Professional - $697 Early Bird](https://buy.stripe.com/clara-professional)**
+**[🛒 Comprar Plan Professional - $697 Early Bird](mailto:controlsafemail.365@keemail.me?subject=Compra%20CLARA%20v5.0%20Professional&body=Hola,%20quiero%20comprar%20el%20Plan%20Professional%20($697%20Early%20Bird).%0A%0ANombre:%0AEmail:%0APaís:%0AMétodo%20de%20pago%20preferido:%20(Stripe/Transferencia))**
 
 ---
 
 ### 🥈 PLAN TEAM (Equipos)
-
-```
 ═══════════════════════════════════════════════════════════
 CLARA v5.0 TEAM - PLAN EQUIPOS
 ═══════════════════════════════════════════════════════════
-
 PRECIO REGULAR: $2,997/año ($599/usuario/año)
 EARLY BIRD: $1,997/año (Ahorro $1,000)
-
 INCLUYE TODO DE PROFESSIONAL +
 ✓ 5 usuarios autorizados
 ✓ Onboarding grupal (sesión 90 min con todo el equipo)
@@ -252,41 +209,31 @@ INCLUYE TODO DE PROFESSIONAL +
 ✓ Actualizaciones prioritarias (beta testing)
 ✓ Reunión trimestral de seguimiento
 ✓ Cambio de usuarios: 2 veces/año
-
 DIFERENCIA VS PROFESSIONAL:
 → 5 usuarios vs. 1 ($399/usuario adicional vs. $697)
 → Onboarding grupal personalizado
 → Workshops mensuales exclusivos
 → Soporte más rápido (24h vs. 48h)
 → Templates a tu marca
-
 IDEAL PARA:
 → Startups con equipo fundador
 → Consultoras boutique (2-10 personas)
 → Equipos de innovación corporativa
 → Equipos de transformación digital
 → Agencias de estrategia
-
 LÍMITE: 5 usuarios nominados (misma organización)
 RENOVACIÓN: Requerida para mantener beneficios colaborativos
-
 ═══════════════════════════════════════════════════════════
-```
-
-**[🛒 Comprar Plan Team - $1,997 Early Bird](https://buy.stripe.com/clara-team)**
+**[🛒 Comprar Plan Team - $1,997 Early Bird](mailto:controlsafemail.365@keemail.me?subject=Compra%20CLARA%20v5.0%20Team&body=Hola,%20quiero%20comprar%20el%20Plan%20Team%20($1,997%20Early%20Bird).%0A%0ANombre%20organización:%0AEmail%20contacto:%0APaís:%0AUsuarios%20(nombre%20y%20email%20de%205%20personas):%0AMétodo%20de%20pago%20preferido:%20(Stripe/Transferencia/Orden%20de%20Compra))**
 
 ---
 
 ### 🥇 PLAN ENTERPRISE (Corporativo)
-
-```
 ═══════════════════════════════════════════════════════════
 CLARA v5.0 ENTERPRISE - PLAN CORPORATIVO
 ═══════════════════════════════════════════════════════════
-
 PRECIO BASE: $9,997/año (20 usuarios - $499/usuario/año)
 PRECIO CUSTOM: 20+ usuarios (contactar ventas)
-
 INCLUYE TODO DE TEAM +
 ✓ 20 usuarios autorizados (o ilimitados custom)
 ✓ Onboarding corporativo personalizado (3 sesiones)
@@ -301,7 +248,6 @@ INCLUYE TODO DE TEAM +
 ✓ Licencia revocable por usuario (control total)
 ✓ Factura formal con RFC/NIT
 ✓ Contrato marco personalizado
-
 DIFERENCIA VS TEAM:
 → 20 usuarios vs. 5 ($499/usuario vs. $599)
 → Soporte dedicado 24/7 (no solo email)
@@ -309,42 +255,33 @@ DIFERENCIA VS TEAM:
 → Sesiones C-Level trimestrales
 → Desarrollo de casos de uso propios
 → SLA con garantía
-
 SERVICIOS ADICIONALES DISPONIBLES:
 → Capacitación on-site: $5,000/día
 → Consultoría de implementación: $10,000-$50,000
 → Integración API custom: $15,000-$100,000
 → Desarrollo de frameworks propietarios: Quote
-
 IDEAL PARA:
 → Corporaciones 100+ empleados
 → Consultoras grandes (McKinsey, Deloitte, EY, etc.)
 → Universidades con múltiples facultades
 → Gobierno y sector público
 → Organizaciones con 500+ empleados
-
 PROCESO DE COMPRA:
-1. Llamada discovery (30 min) - Agendar: enterprise@clara-v5.com
-2. Propuesta personalizada (48h)
-3. Negociación de términos
-4. Contrato formal
-5. Onboarding corporativo (3 sesiones)
-
+Llamada discovery (30 min) - Agendar: controlsafemail.365@keemail.me
+Propuesta personalizada (48h)
+Negociación de términos
+Contrato formal
+Onboarding corporativo (3 sesiones)
 LÍMITE: 20 usuarios base (expansiones disponibles)
 RENOVACIÓN: Requerida con revisión anual de términos
-
 ═══════════════════════════════════════════════════════════
-```
-
-**[📞 Contactar Ventas Enterprise](mailto:enterprise@clara-v5.com?subject=Consulta%20Plan%20Enterprise)**
+**[📞 Contactar Ventas Enterprise](mailto:controlsafemail.365@keemail.me?subject=Consulta%20Plan%20Enterprise&body=Hola,%20quiero%20información%20sobre%20el%20Plan%20Enterprise.%0A%0ANombre%20organización:%0AContacto:%0AEmail:%0APaís:%0ANúmero%20aproximado%20de%20usuarios:%0A%0AComéntanos%20brevemente%20tu%20necesidad:)**
 
 ---
 
 ## 🎁 OFERTAS ESPECIALES
 
 ### ⚡ Early Bird (Primeros 100 Compradores)
-
-```
 ┌─────────────────────────────────────────────┐
 │  OFERTA EARLY BIRD - TERMINA PRONTO         │
 ├─────────────────────────────────────────────┤
@@ -361,8 +298,6 @@ RENOVACIÓN: Requerida con revisión anual de términos
 │  ⏳ O hasta: 7 días desde lanzamiento       │
 │                                             │
 └─────────────────────────────────────────────┘
-```
-
 **Nota:** Precio Early Bird se mantiene en renovaciones futuras (grandfathering)
 
 ---
@@ -376,7 +311,7 @@ RENOVACIÓN: Requerida con revisión anual de términos
 
 **Requisito:** Email institucional (.edu, .ac, etc.) o carta de la institución
 
-**Aplicar descuento:** academic@clara-v5.com con comprobante
+**Aplicar descuento:** controlsafemail.365@keemail.me con comprobante
 
 **Precios con descuento académico:**
 - Professional: $523/año (en vez de $697 Early Bird)
@@ -394,7 +329,7 @@ RENOVACIÓN: Requerida con revisión anual de términos
 
 **Requisito:** Comprobante de residencia + declaración jurada
 
-**Aplicar:** regional@clara-v5.com
+**Aplicar:** controlsafemail.365@keemail.me
 
 **Precios con descuento regional:**
 - Professional: $418/año (en vez de $697)
@@ -437,45 +372,35 @@ Disponible en **México, Argentina, Brasil, Chile** vía Stripe Link:
 ## 🛡️ GARANTÍAS Y POLÍTICAS
 
 ### Garantía de 30 Días Sin Preguntas
-
-```
 ═══════════════════════════════════════════════════════════
 GARANTÍA TOTAL DE SATISFACCIÓN
 ═══════════════════════════════════════════════════════════
-
 Si CLARA v5.0 no transforma tus decisiones estratégicas
 en los primeros 30 días, reembolso completo inmediato.
-
 PROCESO SIMPLE:
-1. Email a: refunds@clara-v5.com
-2. Asunto: "Solicitud de reembolso - [Tu número de licencia]"
-3. Opcional: Razón (nos ayuda a mejorar, pero no requerida)
-
+Email a: controlsafemail.365@keemail.me
+Asunto: "Solicitud de reembolso - [Tu número de licencia]"
+Opcional: Razón (nos ayuda a mejorar, pero no requerida)
 REEMBOLSO PROCESADO EN: 5-7 días hábiles
 MÉTODO: Mismo método de pago original
-
 CONDICIONES:
 ✓ Válida solo en primera compra (no renovaciones)
 ✓ No aplica si se detectó violación de licencia
 ✓ Sin penalización, sin preguntas incómodas
-
 ESTADÍSTICA: <3% de compradores solicitan reembolso
 (Mayoría: "No era para mí", no "No funciona")
-
 ═══════════════════════════════════════════════════════════
-```
-
 ---
 
 ### Política de Actualizaciones Perpetuas
 
 **INCLUIDO EN TODAS LAS LICENCIAS:**
 
-✅ Todas las actualizaciones futuras **gratis de por vida**
-✅ Nuevos frameworks y herramientas: **gratis**
-✅ Versiones mayores (v5.1, v5.2, v6.0): **gratis**
-✅ Casos de uso adicionales: **gratis**
-✅ Mejoras y correcciones: **gratis**
+✅ Todas las actualizaciones futuras **gratis de por vida**  
+✅ Nuevos frameworks y herramientas: **gratis**  
+✅ Versiones mayores (v5.1, v5.2, v6.0): **gratis**  
+✅ Casos de uso adicionales: **gratis**  
+✅ Mejoras y correcciones: **gratis**  
 
 **Renovación anual solo para:**
 - Mantener soporte (email, workshops, sesiones)
@@ -503,7 +428,7 @@ ESTADÍSTICA: <3% de compradores solicitan reembolso
 - Información de pago (procesada por Stripe, no almacenada por nosotros)
 - Historial de tickets de soporte (para mejorar servicio)
 
-**Eliminar tus datos:** privacy@clara-v5.com
+**Eliminar tus datos:** controlsafemail.365@keemail.me
 
 ---
 
@@ -515,10 +440,10 @@ ESTADÍSTICA: <3% de compradores solicitan reembolso
 R: Actualmente solo Stripe (tarjeta) y transferencia bancaria. PayPal en roadmap para Q1 2026.
 
 **P: ¿Puedo pagar con criptomonedas?**  
-R: Sí, para Plan Enterprise. Contactar: crypto@clara-v5.com. Aceptamos: BTC, ETH, USDC, USDT.
+R: Sí, para Plan Enterprise. Contactar: controlsafemail.365@keemail.me. Aceptamos: BTC, ETH, USDC, USDT.
 
 **P: ¿Emiten factura formal?**  
-R: Sí. Automática para México (CFDI), manual para otros países. Solicitar con datos fiscales completos.
+R: Sí. Automática para México (CFDI), manual para otros países. Solicitar con datos fiscales completos a controlsafemail.365@keemail.me
 
 **P: ¿El precio incluye IVA/Tax?**  
 R: Depende de tu país:
@@ -541,7 +466,7 @@ R:
 - Enterprise: Sí, ilimitado
 
 **P: ¿Qué pasa si mi equipo crece de 5 a 8 personas?**  
-R: Upgrade a Enterprise o añadir 3 licencias Professional adicionales. Contactar para mejor precio.
+R: Upgrade a Enterprise o añadir 3 licencias Professional adicionales. Contactar controlsafemail.365@keemail.me para mejor precio.
 
 ---
 
@@ -609,28 +534,20 @@ R:
 
 ### ¿Necesitas ayuda para decidir?
 
-**Ventas General:**  
-📧 ventas@clara-v5.com  
-📞 +52 (55) XXXX-XXXX (México)  
-📞 +1 (XXX) XXX-XXXX (USA)  
-💬 WhatsApp: +52 XXX XXX XXXX  
+**Email Unificado (Todos los Departamentos):**  
+📧 **controlsafemail.365@keemail.me**
 
-**Ventas Enterprise:**  
-📧 enterprise@clara-v5.com  
-📅 Agendar llamada: [calendly.com/clara-enterprise](https://calendly.com/clara-v5-enterprise)  
+**Tiempo de respuesta:**  
+- Professional: 48h  
+- Team: 24h  
+- Enterprise: Inmediato (te contactamos por teléfono/Zoom)  
 
-**Soporte Pre-Venta:**  
-📧 presales@clara-v5.com  
-💬 Chat en vivo: [clara-v5.com](https://clara-v5.com) (horario: Lun-Vie 9am-6pm CST)  
-
-**Facturación:**  
-📧 billing@clara-v5.com  
+**Horario de atención:**  
+Lun-Vie 9am-6pm CST (México) / CET (España)
 
 ---
 
 ## 🚀 ¿LISTO PARA TRANSFORMAR TUS DECISIONES?
-
-```
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
 │           🧠 CLARA v5.0 PROFESSIONAL                    │
@@ -643,19 +560,4 @@ R:
 │  ✅ Protección cognitiva única                          │
 │  ✅ Actualización perpetua                              │
 │  ✅ Garantía 30 días                                    │
-│                                                         │
-│  Early Bird: $697 (quedan 37/100 cupos)                │
-│
-│  [ 🛒 COMPRAR AHORA ]                                   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-🛒 Comprar CLARA v5.0 Professional - $697
-👥 Comprar CLARA v5.0 Team - $1,997
-🏢 Contactar para Enterprise
-�
-
-¿Todavía tienes dudas?
-📧 Envíanos un email | 💬 Chat en vivo | 📅 Agendar demo
-CLARA v5.0 PROFESSIONAL
-La pregunta no es "¿Puedo permitirme CLARA?"
-La pregunta es: "¿Puedo permitirme NO tenerla?"                     
+│ 
