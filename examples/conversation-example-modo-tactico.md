@@ -217,4 +217,4 @@ o enfocamos en ejecutar el plan de acción inmediata?
 ✅ Timeline esperado  
 ✅ Email modelo listo para copiar  
 
---- u
+--- 
