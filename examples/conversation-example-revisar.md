@@ -239,4 +239,43 @@ Si ventas >€62k → Acelerar inversión
 GAP 4: Métricas Intermedias Ausentes
 Qué falta:
 Solo miden output final (ventas €70k), no inputs.
-Inputs qu
+Inputs que deberían medir semanalmente:
+CTR (Click-Through Rate) ads
+Tasa conversión landing page
+Tasa rebote blog
+Tasa apertura emails
+Engagement rate influencers
+Por qué importa:
+Si en Semana 2 ven CTR 0.5% (muy bajo), pueden ajustar ANTES de
+gastar todo el presupuesto.
+═══════════════════════════════════════════════
+💡 ALTERNATIVAS SUPERIORES
+═══════════════════════════════════════════════
+ALTERNATIVA 1: Plan "Eficiencia Primero" (Recomendado)
+Cambios clave:
+Reducir Google Ads a €8k (de €15k)
+Enfocarse en long-tail keywords alta intención
+Ejemplo: "comprar detergente ecológico sin químicos"
+Conversión esperada: 5% (vs. 3% genérico)
+Aumentar Retención a €5k (de €0)
+Email automatizado post-compra
+Programa suscripción (entrega mensual)
+Referral program
+Mantener Instagram €8k (funciona bien para marca)
+Reducir Influencers a €1k (de €2k)
+2-3 nano influencers bien seleccionados
+Enfoque: Conversión, no awareness
+Blog: Mantener pero long-tail (2 artículos/semana)
+Keywords baja competencia, alta intención
+Nuevo: Invertir €3k en Optimización Conversión
+Mejorar landing page (test A/B)
+Checkout más simple
+Meta: Subir conversión de 3% a 5%
+Presupuesto Total: €25k (igual)
+Proyección Ventas: €68k/mes (vs. €70k, pero RENTABLE)
+CAC esperado: €40 (vs. €67 plan original)
+ROI: Positivo desde mes 2
+ALTERNATIVA 2: Plan "All-In Retención" (Conservador)
+Si priorizan no perder dinero:
+Reducir adquisición a €10k
+Solo Google
