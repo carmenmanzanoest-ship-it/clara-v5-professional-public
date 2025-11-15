@@ -263,7 +263,7 @@ https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public/issues
 GitHub Discussions:
 https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public/discussions
 Para Consultas Generales
-📧 Email: contacto@clara-v5.com
+📧 Email: controlsafemail.365@keemail.me
 💬 Comunidad: [Discord/Circle] (para usuarios con licencia)
 🎁 Reconocimiento de Contribuidores
 Hall of Fame
