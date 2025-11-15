@@ -561,3 +561,23 @@ Lun-Vie 9am-6pm CST (México) / CET (España)
 │  ✅ Actualización perpetua                              │
 │  ✅ Garantía 30 días                                    │
 │ 
+Early Bird: $697 (quedan 37/100 cupos)                │
+│                                                         │
+│  [ 🛒 COMPRAR AHORA ]                                   │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+<p align="center">
+  <a href="mailto:controlsafemail.365@keemail.me?subject=Compra%20CLARA%20v5.0%20Professional">
+    <img src="https://img.shields.io/badge/🛒_COMPRAR_AHORA-$697-brightgreen?style=for-the-badge" alt="Comprar CLARA v5.0"/>
+  </a>
+</p>
+
+---
+
+**© 2025 Carmen Delia Manzano. Todos los derechos reservados.**
+
+**CLARA v5.0 Professional - Sistema de Inteligencia Estratégica Superior**
+
+---
+
+**[← Volver al README principal](./README.md)**
