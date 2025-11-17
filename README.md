@@ -3,7 +3,7 @@
 | Etiqueta | Estado |
 | :--- | :--- |
 | [![Versión](https://img.shields.io/badge/versión-5.0-blue.svg)](CHANGELOG.md) | **v5.0 (Actual)** |
-| [![Licencia](https://img.shields.io/badge/licencia-Propietaria-red.svg)](LICENSE.md) | **Propiedad Exclusiva** |
+| [![Licencia](https://img.shields.io/badge/licencia-CC_BY--NC--ND_4.0-blue.svg)](LICENSE.md) |
 | [![Estado](https://img.shields.io/badge/estado-Producción-green.svg)](COMPRAR.md) | **Disponible** |
 
 
