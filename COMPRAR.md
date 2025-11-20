@@ -1,8 +1,6 @@
-📄 COMPRAR.md 
+# 🛒 CÓMO COMPRAR CLARA v5.0 PROFESSIONAL
 
-🛒 CÓMO COMPRAR CLARA v5.0 PROFESSIONAL
-
-**Sistema de Inteligencia Estratégica Superior**
+## Sistema de Inteligencia Estratégica Superior
 
 ---
 
@@ -188,7 +186,7 @@ IDEAL PARA:
 LÍMITE: 1 usuario (no transferible)
 RENOVACIÓN: Opcional (mantiene acceso a contenido sin renovar)
 ═══════════════════════════════════════════════════════════
-**[🛒 Comprar Plan Professional - $697 Early Bird](mailto:controlsafemail.365@keemail.me?subject=Compra%20CLARA%20v5.0%20Professional&body=Hola,%20quiero%20comprar%20el%20Plan%20Professional%20($697%20Early%20Bird).%0A%0ANombre:%0AEmail:%0APaís:%0AMétodo%20de%20pago%20preferido:%20(Stripe/Transferencia))**
+**[🛒 Comprar Plan Professional - $697 Early Bird]( [LINK DE PAGO STRIPE PARA PLAN PROFESSIONAL] )**
 
 ---
 
@@ -224,7 +222,7 @@ IDEAL PARA:
 LÍMITE: 5 usuarios nominados (misma organización)
 RENOVACIÓN: Requerida para mantener beneficios colaborativos
 ═══════════════════════════════════════════════════════════
-**[🛒 Comprar Plan Team - $1,997 Early Bird](mailto:controlsafemail.365@keemail.me?subject=Compra%20CLARA%20v5.0%20Team&body=Hola,%20quiero%20comprar%20el%20Plan%20Team%20($1,997%20Early%20Bird).%0A%0ANombre%20organización:%0AEmail%20contacto:%0APaís:%0AUsuarios%20(nombre%20y%20email%20de%205%20personas):%0AMétodo%20de%20pago%20preferido:%20(Stripe/Transferencia/Orden%20de%20Compra))**
+**[🛒 Comprar Plan Team - $1,997 Early Bird]( [LINK DE PAGO STRIPE PARA PLAN TEAM] )**
 
 ---
 
@@ -392,25 +390,25 @@ ESTADÍSTICA: <3% de compradores solicitan reembolso
 ═══════════════════════════════════════════════════════════
 ---
 
-### Política de Actualizaciones Perpetuas
+### Política de Actualizaciones Perpetuas 💡 (Corregida)
 
-**INCLUIDO EN TODAS LAS LICENCIAS:**
+**INCLUIDO EN TODAS LAS LICENCIAS ACTIVAS:**
 
-✅ Todas las actualizaciones futuras **gratis de por vida**  
-✅ Nuevos frameworks y herramientas: **gratis**  
-✅ Versiones mayores (v5.1, v5.2, v6.0): **gratis**  
-✅ Casos de uso adicionales: **gratis**  
-✅ Mejoras y correcciones: **gratis**  
+✅ Todas las actualizaciones **menores** (v5.1, v5.2, etc.) durante el periodo de licencia activa: **gratis**.
+✅ Nuevos frameworks y herramientas dentro de la **versión mayor actual (v5.x)**: **gratis**.
+❌ Las actualizaciones **mayores** (v6.0, v7.0) **requieren una renovación activa de la licencia** para acceder.
 
 **Renovación anual solo para:**
 - Mantener soporte (email, workshops, sesiones)
 - Mantener acceso a comunidad privada
+- **Acceso a Versiones Mayores (v6.0, v7.0...)**
 - Beneficios colaborativos (Team/Enterprise)
 
 **Sin renovar, MANTIENES:**
-- Acceso al prompt y actualizaciones
-- Derecho a usar indefinidamente
-- Contenido descargado permanentemente
+- Acceso a la última versión del prompt (y actualizaciones menores hasta el vencimiento) y contenido descargado al momento de su vencimiento.
+- Derecho a usar indefinidamente la versión adquirida.
+- Contenido descargado permanentemente.
+- **PIERDES** el derecho a las nuevas versiones mayores, el soporte y la comunidad privada.
 
 ---
 
@@ -418,12 +416,7 @@ ESTADÍSTICA: <3% de compradores solicitan reembolso
 
 **Compromiso:**
 
-🔒 **No vendemos ni compartimos tus datos**  
-🔒 **No rastreamos tu uso del sistema**  
-🔒 **No accedemos a tus conversaciones con CLARA**  
-🔒 **Cumplimiento GDPR, CCPA, LGPD**  
-
-**Almacenamos solo:**
+🔒 **No vendemos ni compartimos tus datos** 🔒 **No rastreamos tu uso del sistema** 🔒 **No accedemos a tus conversaciones con CLARA** 🔒 **Cumplimiento GDPR, CCPA, LGPD** **Almacenamos solo:**
 - Email y nombre (para entrega y soporte)
 - Información de pago (procesada por Stripe, no almacenada por nosotros)
 - Historial de tickets de soporte (para mejorar servicio)
@@ -436,17 +429,13 @@ ESTADÍSTICA: <3% de compradores solicitan reembolso
 
 ### 💳 Sobre Pago y Facturación
 
-**P: ¿Aceptan PayPal?**  
-R: Actualmente solo Stripe (tarjeta) y transferencia bancaria. PayPal en roadmap para Q1 2026.
+**P: ¿Aceptan PayPal?** R: Actualmente solo Stripe (tarjeta) y transferencia bancaria. PayPal en roadmap para Q1 2026.
 
-**P: ¿Puedo pagar con criptomonedas?**  
-R: Sí, para Plan Enterprise. Contactar: controlsafemail.365@keemail.me. Aceptamos: BTC, ETH, USDC, USDT.
+**P: ¿Puedo pagar con criptomonedas?** R: Sí, para Plan Enterprise. Contactar: controlsafemail.365@keemail.me. Aceptamos: BTC, ETH, USDC, USDT.
 
-**P: ¿Emiten factura formal?**  
-R: Sí. Automática para México (CFDI), manual para otros países. Solicitar con datos fiscales completos a controlsafemail.365@keemail.me
+**P: ¿Emiten factura formal?** R: Sí. Automática para México (CFDI), manual para otros países. Solicitar con datos fiscales completos a controlsafemail.365@keemail.me
 
-**P: ¿El precio incluye IVA/Tax?**  
-R: Depende de tu país:
+**P: ¿El precio incluye IVA/Tax?** R: Depende de tu país:
 - México: +16% IVA
 - UE: +VAT según país (19-27%)
 - USA: +Sales Tax según estado
@@ -456,74 +445,58 @@ R: Depende de tu país:
 
 ### 🔄 Sobre Licencias y Usuarios
 
-**P: ¿Puedo compartir mi licencia con colega?**  
-R: No en Plan Professional (1 usuario). Sí en Team (5) y Enterprise (20+). Ver [LICENSE.md](LICENSE.md)
+**P: ¿Puedo compartir mi licencia con colega?** R: No en Plan Professional (1 usuario). Sí en Team (5) y Enterprise (20+). Ver [LICENSE.md](LICENSE.md)
 
-**P: ¿Puedo cambiar de usuario en mi licencia?**  
-R: 
+**P: ¿Puedo cambiar de usuario en mi licencia?** R: 
 - Professional: No (licencia personal)
 - Team: Sí, 2 veces/año
 - Enterprise: Sí, ilimitado
 
-**P: ¿Qué pasa si mi equipo crece de 5 a 8 personas?**  
-R: Upgrade a Enterprise o añadir 3 licencias Professional adicionales. Contactar controlsafemail.365@keemail.me para mejor precio.
+**P: ¿Qué pasa si mi equipo crece de 5 a 8 personas?** R: Upgrade a Enterprise o añadir 3 licencias Professional adicionales. Contactar controlsafemail.365@keemail.me para mejor precio.
 
 ---
 
 ### 📦 Sobre Entrega y Acceso
 
-**P: ¿Cuánto tarda en llegar el acceso?**  
-R: 
+**P: ¿Cuánto tarda en llegar el acceso?** R: 
 - Stripe: 2-5 minutos (inmediato)
 - Transferencia: 24-48 horas (verificación manual)
 - Orden de compra: 7-15 días (según proceso corporativo)
 
-**P: ¿Cómo recibo el sistema?**  
-R: 2 opciones:
+**P: ¿Cómo recibo el sistema?** R: 2 opciones:
 1. Invitación a repositorio GitHub privado (recomendado)
 2. Link de descarga directa (válido 7 días, renovable)
 
-**P: ¿Puedo usar sin internet?**  
-R: El prompt sí (es archivo de texto). Pero CLARA requiere internet porque funciona en Claude/ChatGPT (servicios cloud).
+**P: ¿Puedo usar sin internet?** R: El prompt sí (es archivo de texto). Pero CLARA requiere internet porque funciona en Claude/ChatGPT (servicios cloud).
 
 ---
 
 ### 🔧 Sobre Implementación
 
-**P: ¿Es complicado implementar?**  
-R: No. Si sabes copiar-pegar, puedes implementar CLARA. Tutorial de 5 minutos incluido.
+**P: ¿Es complicado implementar?** R: No. Si sabes copiar-pegar, puedes implementar CLARA. Tutorial de 5 minutos incluido.
 
-**P: ¿Funciona en español e inglés?**  
-R: Sí, ambos. El prompt está en español pero CLARA responde en el idioma que prefieras.
+**P: ¿Funciona en español e inglés?** R: Sí, ambos. El prompt está en español pero CLARA responde en el idioma que prefieras.
 
-**P: ¿Necesito Claude Pro o ChatGPT Plus?**  
-R: Recomendado (conversaciones largas), pero funciona en versiones gratuitas con limitaciones de longitud.
+**P: ¿Necesito Claude Pro o ChatGPT Plus?** R: Recomendado (conversaciones largas), pero funciona en versiones gratuitas con limitaciones de longitud.
 
 ---
 
-### 💼 Sobre Uso Comercial
+### 💼 Sobre Uso Comercial 💼 (Corregido)
 
-**P: ¿Puedo usar CLARA para consultoría a clientes?**  
-R: 
-- Professional: Uso personal, no consultoría directa
-- Team: Sí, con atribución
-- Enterprise: Sí, sin restricciones
+**P: ¿Puedo usar CLARA para consultoría a clientes?** R: 
+- **Professional:** Sí. Puedes usar los **análisis, reportes, y estrategias generadas por CLARA** para entregar servicios a tus propios clientes (con la atribución obligatoria). La restricción es solo a **1 usuario** y no permite la reventa de la *metodología* o el *prompt*.
+- **Team:** Sí, con atribución.
+- **Enterprise:** Sí, sin restricciones (sin atribución obligatoria).
 
-**P: ¿Puedo vender análisis generados por CLARA?**  
-R: Sí en todos los planes, siempre que incluyas atribución: *"Análisis generado con CLARA v5.0 Professional"*
+**P: ¿Puedo vender análisis generados por CLARA?** R: Sí en todos los planes, siempre que incluyas atribución (salvo en Plan Enterprise): *"Análisis generado con CLARA v5.0 Professional"*.
 
 ---
 
 ### 🔄 Sobre Renovación
 
-**P: ¿Qué pasa si no renuevo después del año?**  
-R: Mantienes acceso al prompt y actualizaciones, pero pierdes:
-- Soporte (email, workshops)
-- Comunidad privada
-- Beneficios colaborativos (Team/Enterprise)
+**P: ¿Qué pasa si no renuevo después del año?** R: Mantienes acceso a la **última versión del prompt** que poseías y a todo el contenido descargado. **PIERDES** el derecho a las **nuevas versiones mayores (v6.0+)**, el soporte (email, workshops) y la comunidad privada.
 
-**P: ¿El precio sube en la renovación?**  
-R: 
+**P: ¿El precio sube en la renovación?** R: 
 - Early Bird: No, mantienes $697 de por vida (grandfathering)
 - Precio regular: Puede ajustarse máximo +10%/año con aviso 30 días
 - Descuentos (académico, regional): Se mantienen si sigues calificando
@@ -534,16 +507,13 @@ R:
 
 ### ¿Necesitas ayuda para decidir?
 
-**Email Unificado (Todos los Departamentos):**  
-📧 **controlsafemail.365@keemail.me**
+**Email Unificado (Todos los Departamentos):** 📧 **controlsafemail.365@keemail.me**
 
-**Tiempo de respuesta:**  
-- Professional: 48h  
+**Tiempo de respuesta:** - Professional: 48h  
 - Team: 24h  
 - Enterprise: Inmediato (te contactamos por teléfono/Zoom)  
 
-**Horario de atención:**  
-Lun-Vie 9am-6pm CST (México) / CET (España)
+**Horario de atención:** Lun-Vie 9am-6pm CST (México) / CET (España)
 
 ---
 
@@ -558,26 +528,4 @@ Lun-Vie 9am-6pm CST (México) / CET (España)
 │  ✅ 40+ frameworks profesionales                        │
 │  ✅ 8 modos adaptativos                                 │
 │  ✅ Protección cognitiva única                          │
-│  ✅ Actualización perpetua                              │
-│  ✅ Garantía 30 días                                    │
-│ 
-Early Bird: $697 (quedan 37/100 cupos)                │
-│                                                         │
-│  [ 🛒 COMPRAR AHORA ]                                   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-<p align="center">
-  <a href="mailto:controlsafemail.365@keemail.me?subject=Compra%20CLARA%20v5.0%20Professional">
-    <img src="https://img.shields.io/badge/🛒_COMPRAR_AHORA-$697-brightgreen?style=for-the-badge" alt="Comprar CLARA v5.0"/>
-  </a>
-</p>
-
----
-
-**© 2025 Carmen Delia Manzano. Todos los derechos reservados.**
-
-**CLARA v5.0 Professional - Sistema de Inteligencia Estratégica Superior**
-
----
-
-**[← Volver al README principal](./README.md)**
+│  ✅ Actualización perpetua                            
