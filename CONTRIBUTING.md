@@ -36,7 +36,7 @@ Screenshots de casos de uso (con permiso)
 Por la naturaleza propietaria del sistema, NO se aceptan:
 ❌ Modificaciones al contenido core del prompt (19,500 palabras)
 ❌ Cambios a frameworks propietarios completos
-❌ Adiciones de metodologías que alteren la arquitectura v5.0
+❌ Adiciones de metodologías queGUÍAeren la arquitectura v5.0
 ❌ Contenido que viole la licencia propietaria
 ❌ Código o integraciones sin autorización previa
 ❌ Uso de contenido de CLARA en proyectos competidores
@@ -345,9 +345,27 @@ Tu participación ayuda a:
 Cada contribución, por pequeña que sea, es valiosa.
 �
 
+---
+
 GUÍA DE CONTRIBUCIÓN - CLARA v5.0 PROFESSIONAL
 Construyendo juntos un sistema de inteligencia estratégica de clase mundial
 © 2025 Carmen Delia Manzano. Todos los derechos reservados.
 📦 Volver al repositorio principal
-📧 Preguntas: contacto@clara-v5.com
+📧 **Preguntas:** controlsafemail.365@keemail.me
 "La excelencia es un esfuerzo colectivo. Gracias por ser parte de esto."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
