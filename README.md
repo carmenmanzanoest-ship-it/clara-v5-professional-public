@@ -1,7 +1,7 @@
 | Etiqueta | Estado |
-| :---: | :---: |
+| :--- | :--- |
 | [![Versión](https://img.shields.io/badge/versión-5.0-blue.svg)](CHANGELOG.md) | **v5.0 (Actual)** |
-| [![Licencia](https://img.shields.io/badge/licencia-CC_BY--NC--ND_4.0-blue.svg)](LICENSE.md) | **CC BY-NC-ND 4.0** |
+| [![Licencia](https://img.shields.io/badge/licencia-Comercial_EULA-red.svg)](LICENSE.md) | **Uso Comercial (EULA)** |
 | [![Estado](https://img.shields.io/badge/estado-Producción-green.svg)](COMPRAR.md) | **Disponible** |
 
 
