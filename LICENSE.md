@@ -49,16 +49,12 @@ Jurisdicción: Tribunales de Las Palmas de Gran Canaria
 
 ---
 
+## V. NOTA DE CONTEXTO Y ENLACES PÚBLICOS
+
+1.  **Repositorio Público:** El repositorio de GitHub que aloja la documentación pública (`README.md`, `TEASER.md`, etc.) se mantiene con fines de transparencia y marketing. El contenido de este repositorio (excluyendo el Producto Comercial) no se puede utilizar bajo el apartado de Uso Comercial de Output, ya que es la EULA la que rige el uso del Producto de Pago.
+2.  **Referencia Zenodo:** La **Licencia CC BY-NC-ND 4.0** aplica estricta y únicamente al **Documento Institucional publicado en Zenodo**. Esta licencia no se extiende al **Producto CLARA v5.0 Professional** (prompt completo y metodología) que se adquiere mediante la presente EULA.
+
+---
+
 © 2025 Carmen Delia Manzano.
 *"La compra de esta licencia autoriza el uso, pero no transfiere el copyright ni el derecho a la reventa."*
-
-
-
-
-
-
-
-
-
-
-
