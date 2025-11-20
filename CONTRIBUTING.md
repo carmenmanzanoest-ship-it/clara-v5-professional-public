@@ -53,11 +53,11 @@ Paso 2: Fork y Clone
 # Click en "Fork" en la página principal
 
 # 2. Clona tu fork localmente
-git clone https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public.git
+git clone https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public
 cd clara-v5-professional-public
 
 # 3. Añade el repositorio original como remote
-git remote add upstream https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public.git
+git remote add upstream https://github.com/carmenmanzanoest-ship-it/clara-v5-professional-public
 
 # 4. Verifica tus remotes
 git remote -v
