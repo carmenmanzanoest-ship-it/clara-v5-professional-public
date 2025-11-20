@@ -531,7 +531,12 @@ CLARA v5.0 se autoevalúa continuamente contra estos KPIs:
 
 ## ⚖️ Licencia
 
-**CLARA v5.0 Professional** está protegida bajo licencia propietaria.
+Este **repositorio público** (documentación, README, assets públicos, TEASER.md) está publicado bajo **CC BY-NC-ND 4.0**.  
+📄 **Todos los derechos reservados © 2025 Carmen Delia Manzano** — ver [LICENSE.md](./LICENSE.md) para el texto completo de la licencia CC.
+
+**Nota sobre el producto CLARA v5.0 Professional (Prompt y Metodología completa):**  
+El **producto comercial** (prompt completo, frameworks no públicos, metodología detallada) se distribuye por separado y está protegido por una **Licencia Propietaria / EULA** que rige su uso comercial, prohibe la reventa y la publicación del prompt completo. Consulta **COMPRAR.md** y **EULA.md** para los términos de venta y la EULA propietaria.
+
 
 📄 **Todos los derechos reservados © 2025 Carmen Delia Manzano**
 
