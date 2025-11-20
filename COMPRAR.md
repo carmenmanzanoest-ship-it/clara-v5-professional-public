@@ -529,3 +529,16 @@ ESTADÍSTICA: <3% de compradores solicitan reembolso
 │  ✅ 8 modos adaptativos                                 │
 │  ✅ Protección cognitiva única                          │
 │  ✅ Actualización perpetua                            
+│  ✅ Garantía 30 días                                    │
+│ 
+Early Bird: $697 (quedan 37/100 cupos)                │
+│                                      
+
+<a href=" [LINK DE PAGO STRIPE PARA PLAN PROFESSIONAL] ">
+  <img src="https://img.shields.io/badge/🛒_OBTENER_CLARA_v5.0-$697-brightgreen?style=for-the-badge" alt="Obtener CLARA v5.0 Professional"/>
+</a>
+
+---
+
+> "La pregunta no es '¿Puedo permitir
+> 
