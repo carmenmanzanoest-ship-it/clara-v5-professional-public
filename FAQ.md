@@ -46,12 +46,14 @@ CLARA v5.0 Professional es un **sistema de instrucciones avanzadas y propietaria
 
 **Proceso de implementación (2 minutos):**
 
-1. Ve al repositorio público: `https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility`
-2. Descarga **`DEMO_CLARA_v5.0.txt`** (Contiene solo el saludo).
+1. Ve al repositorio público: **[REQUIERE URL REAL DEL REPOSITORIO PÚBLICO]**
+2. Descarga el **archivo de texto DEMO** (`DEMO_CLARA_v5.0.txt`).
 3. Copia el contenido. Pega en Claude.ai o ChatGPT.
 4. Envía.
 5. CLARA responde: "Hola, soy CLARA v5.0..."
 6. **¡Listo! La funcionalidad de la demo termina aquí.**
+   
+
 
 ---
 
