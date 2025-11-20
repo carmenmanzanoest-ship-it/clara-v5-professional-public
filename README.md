@@ -533,11 +533,24 @@ CLARA v5.0 se autoevalúa continuamente contra estos KPIs:
 
 ## ⚖️ Licencia
 
-Este **repositorio público** (documentación, README, assets públicos, TEASER.md) está publicado bajo **CC BY-NC-ND 4.0**.  
-📄 **Todos los derechos reservados © 2025 Carmen Delia Manzano** — ver [LICENSE.md](./LICENSE.md) para el texto completo de la licencia CC.
+El **Producto CLARA v5.0 Professional** (prompt completo y metodología detallada) se distribuye bajo una **Licencia de Uso Comercial de Usuario Final (EULA)**, que rige la relación con el cliente de pago.
 
-**Nota sobre el producto CLARA v5.0 Professional (Prompt y Metodología completa):**  
-El **producto comercial** (prompt completo, frameworks no públicos, metodología detallada) se distribuye por separado y está protegido por una **Licencia Propietaria / EULA** que rige su uso comercial, prohibe la reventa y la publicación del prompt completo. Consulta **COMPRAR.md** y **EULA.md** para los términos de venta y la EULA propietaria.
+📄 **Todos los derechos reservados © 2025 Carmen Delia Manzano**
+
+**[Ver LICENSE.md para la Licencia de Uso Comercial Completa (EULA) →](./LICENSE.md)**
+
+### En Resumen (Aplicable a Clientes de Pago):
+
+❌ **Prohibición de Reventa:** No puedes vender, sublicenciar o redistribuir el prompt completo o la metodología.
+❌ No puedes crear obras derivadas o modificar el núcleo del sistema.
+✅ **Uso Comercial de Output:** Tienes derecho a usar los análisis, informes y resultados generados por CLARA para vender servicios a tus propios clientes (con atribución).
+
+---
+
+### Nota sobre el Repositorio Público
+
+Este repositorio (documentación, `README.md`, assets públicos, `TEASER.md`, etc.) se mantiene con fines de transparencia y marketing, y está protegido bajo la **Licencia Propietaria**. La referencia a **CC BY-NC-ND 4.0** aplica estricta y únicamente al **Documento Institucional de Zenodo** y no se extiende al Producto Comercial.
+
 
 
 📄 **Todos los derechos reservados © 2025 Carmen Delia Manzano**
