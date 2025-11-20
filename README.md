@@ -553,17 +553,6 @@ Este repositorio (documentación, `README.md`, assets públicos, `TEASER.md`, et
 
 
 
-📄 **Todos los derechos reservados © 2025 Carmen Delia Manzano**
-
-**[Ver LICENSE.md para detalles completos →](./LICENSE.md)**
-
-### En resumen:
-
-❌ No puedes copiar, modificar, distribuir o vender este trabajo  
-❌ No puedes crear obras derivadas  
-✅ Puedes usar CLARA con licencia válida  
-✅ Puedes compartir resultados generados por CLARA (con atribución)  
-
 ---
 
 ## 🤝 Contribuciones
